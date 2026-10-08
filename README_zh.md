@@ -4,7 +4,7 @@
 
 [English](README.md) | [中文](README_zh.md)
 
-**129 组工作 · 84 篇论文 · 4 篇模型报告 · 50 篇博客 · 68 个 GitHub 项目**
+**129 组工作 · 84 篇论文 · 4 篇模型报告 · 51 篇博客 · 68 个 GitHub 项目**
 
 快照：**2026-10-08**。覆盖环境构建、任务合成、交互数据、训练与评测。
 
@@ -37,6 +37,7 @@ SFT 使用筛选后的示范轨迹；在线 RL 还需要可采样任务分布、
 
 | 文章/机构 | 核心问题 | 核心内容 | 日期 | 说明 |
 | --- | --- | --- | --- | --- |
+| [Automating the Data Flywheel with Terminal Agents](https://microsoft.github.io/Orchard-Agentic/autoenvscaling/) · Microsoft Research | 如何让 agent 自动生成并迭代环境？ | 用 proposer agent 读取 solver 失败轨迹，在沙箱中构建、运行和修复新环境；通过验证和难度校准筛选；单模型可同时担任 proposer 和 solver 实现递归自改进 | 2026（预印本） | 前沿 proposer 使用终端访问的有效环境生成率比一次性提示高 25 倍；Qwen3.6-35B 通过自对弈在 Terminal-Bench 2.1 上从 41.1 提升到 53.3。 |
 | [Introducing Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · Reflection | 如何迭代高质量、有难度的环境池？ | 结合合成、供应商与开源任务；过滤过易、不可解、含糊或可投机任务；用 RL 发现问题并更新筛选策略 | 2026-10-05 | 发布文提到权重与报告将在当月稍后发布；截至该文并非全部已开放，环境池和生成器开放情况未明确。[详情](docs/catalog_details_zh.md#introducing-beam-reflections-501b-open-weight-model--blog-reflection-beam-env) |
 | [Designing a world-class code execution environment](https://poolside.ai/blog/designing-a-world-class-code-execution-environment) · Poolside | 如何把真实仓库变成可执行环境？ | 用 Saucer 管理仓库修订；agent 辅助构建可运行镜像；分层复用 revision 并执行隔离代码反馈 | 2025-08-12 | 详细的工程披露；文章未说明 Saucer、镜像库或完整 RLCEF 平台是否已开源。[详情](docs/catalog_details_zh.md#designing-a-world-class-code-execution-environment--blog-poolside-code-env) |
 
