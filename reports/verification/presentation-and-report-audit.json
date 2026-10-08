@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-10-08",
+  "resources": 192,
+  "counts": {
+    "paper": 84,
+    "blog": 36,
+    "project": 68,
+    "report": 4
+  },
+  "work_families": 117,
+  "featured_blogs": 12,
+  "indexed_sections": 25,
+  "unit_tests_passed": 15,
+  "offline_errors": 0,
+  "link_results": {
+    "failed": 13,
+    "ok": 225,
+    "blocked": 2
+  },
+  "render_check": "HTML-disabled Markdown rendering; bilingual main tables and report tables have consistent columns; browser screenshots inspected",
+  "external_report_heading_mismatches": 0
+}

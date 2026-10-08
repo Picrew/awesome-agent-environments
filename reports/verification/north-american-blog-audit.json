@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-10-08",
+  "added_blogs": 26,
+  "total_resources": 218,
+  "work_families": 139,
+  "resource_kinds": {
+    "paper": 84,
+    "blog": 62,
+    "project": 68,
+    "report": 4
+  },
+  "front_table_rows": {
+    "README.md": 38,
+    "README_zh.md": 38
+  },
+  "article_locator_rows": {
+    "docs/catalog_details.md": 26,
+    "docs/catalog_details_zh.md": 26
+  },
+  "new_link_results": {
+    "ok": 18,
+    "failed": 2,
+    "blocked": 6
+  },
+  "offline_errors": 0,
+  "existing_tests_passed": 15
+}

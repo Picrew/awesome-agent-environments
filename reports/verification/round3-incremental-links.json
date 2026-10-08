@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+    "checked_at": "2026-10-08T03:10:12.793526+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+    "result": "ok"
+  },
+  {
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+    "checked_at": "2026-10-08T03:10:12.793805+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+    "result": "ok"
+  },
+  {
+    "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+    "checked_at": "2026-10-08T03:10:12.793883+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6ab14fb5b6a2637b97d82406/94d57d7651820dc98cee6b659ab52bb59107f8b64501b3766ae629117a15b62d?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27MiMo_V2_6_technical_report.pdf%3B+filename%3D%22MiMo_V2_6_technical_report.pdf%22%3B&xip=vgLwMlQYfVA&user_id=public&X-Xet-Cas-Uid=public&response-content-type=application%2Fpdf&Expires=1791432614&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmFiMTRmYjViNmEyNjM3Yjk3ZDgyNDA2Lzk0ZDU3ZDc2NTE4MjBkYzk4Y2VlNmI2NTlhYjUyYmI1OTEwN2Y4YjY0NTAxYjM3NjZhZTYyOTExN2ExNWI2MmRcXD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3TWlNb19WMl82X3RlY2huaWNhbF9yZXBvcnQucGRmJTNCK2ZpbGVuYW1lJTNEJTIyTWlNb19WMl82X3RlY2huaWNhbF9yZXBvcnQucGRmJTIyJTNCJnhpcD12Z0x3TWxRWWZWQSZ1c2VyX2lkPXB1YmxpYyZYLVhldC1DYXMtVWlkPXB1YmxpYyZyZXNwb25zZS1jb250ZW50LXR5cGU9YXBwbGljYXRpb24lMkZwZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc5MTQzMjYxNH19fV19&Signature=MEUCIQD3MfUSSjNsG4kahYVdC1zymX7xeOGfNDLYf3nxxfaCsgIgL5tuXzR9ycmcgEb8TpOge9anmH5KhlpED%7EFAeiCoN-E_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+    "result": "ok"
+  }
+]

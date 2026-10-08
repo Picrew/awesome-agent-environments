@@ -1,0 +1,2767 @@
+{
+  "as_of": "2026-10-08",
+  "note": "Discovery includes rejected candidates and failed requests. Browser reads and PDF checks are separate evidence; failed HTTP requests are retained. Full source text is not redistributed.",
+  "sources": [
+    {
+      "url": "https://agent-tars-world.github.io/-/",
+      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "checked_at": "2026-10-07T18:09:43.863278+00:00",
+      "status": 200,
+      "final_url": "https://agent-tars-world.github.io/-/",
+      "referenced_in_catalog": true,
+      "text_sha256": "8ce25d1f008896872de97fef1676440a1f0d59f2eafec7fcb246e968c41a489f"
+    },
+    {
+      "url": "https://agenttrek.github.io",
+      "title": "AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials",
+      "checked_at": "2026-10-08T02:10:06.507197+00:00",
+      "status": 200,
+      "final_url": "https://agenttrek.github.io",
+      "referenced_in_catalog": false,
+      "text_sha256": "b83ff855b4371d3a7c9bb2447154579d9b20fbdcf0746678b7863594c5f64f0f"
+    },
+    {
+      "url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:08.493414+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://alignment.anthropic.com/2026/coding-audit-realism/",
+      "title": "Measuring and improving coding audit realism with deployment resources",
+      "checked_at": "2026-10-08T03:15:05.226041+00:00",
+      "status": 200,
+      "final_url": "https://alignment.anthropic.com/2026/coding-audit-realism/",
+      "referenced_in_catalog": true,
+      "text_sha256": "afeccf13b63a661f82c8378837adf6eb10ed3cc7f357213693e1ed45671e6427"
+    },
+    {
+      "url": "https://alignment.anthropic.com/2026/petri-v2/",
+      "title": "Petri 2.0: New Scenarios, New Model Comparisons, and Improved Eval-Awareness Mitigations",
+      "checked_at": "2026-10-08T03:15:04.070694+00:00",
+      "status": 200,
+      "final_url": "https://alignment.anthropic.com/2026/petri-v2/",
+      "referenced_in_catalog": true,
+      "text_sha256": "05bc52293348bdf4fdcb68227483f4140a8a602b1edda3e616529916cae57cdb"
+    },
+    {
+      "url": "https://alignment.anthropic.com/2026/reward-seeker/",
+      "title": null,
+      "checked_at": "2026-10-08T02:50:03.316721+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://api-docs.deepseek.com/news/news260424/",
+      "title": "DeepSeek V4 Preview Release | DeepSeek API Docs",
+      "checked_at": "2026-10-08T02:51:24.307939+00:00",
+      "status": 200,
+      "final_url": "https://api-docs.deepseek.com/news/news260424/",
+      "referenced_in_catalog": false,
+      "text_sha256": "33fc153267b394fea42c71589e1b3660be0020680f0a15da62bf04a3e1672a5f"
+    },
+    {
+      "url": "https://arxiv.org/abs/2010.03768",
+      "title": "[2010.03768] ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+      "checked_at": "2026-10-07T18:09:29.499707+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2010.03768",
+      "referenced_in_catalog": true,
+      "text_sha256": "a5026af15ea62f3b8703f791cf01ba5159e145cae93ed010b9ae3ded77eda836"
+    },
+    {
+      "url": "https://arxiv.org/abs/2203.07540",
+      "title": "[2203.07540] ScienceWorld: Is your Agent Smarter than a 5th Grader?",
+      "checked_at": "2026-10-07T18:09:29.550313+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2203.07540",
+      "referenced_in_catalog": true,
+      "text_sha256": "fdbfa51cf389844200acc09477034b7a0067ca147c2e0ebc756429410aab9c99"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.01206",
+      "title": "[2207.01206] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+      "checked_at": "2026-10-07T18:09:30.229311+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2207.01206",
+      "referenced_in_catalog": true,
+      "text_sha256": "4f4bc42b1132756a6da5c350c3261cf2a0c499a96de38943815688398efa79a2"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.13854",
+      "title": "[2307.13854] WebArena: A Realistic Web Environment for Building Autonomous Agents",
+      "checked_at": "2026-10-07T18:08:08.768416+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2307.13854",
+      "referenced_in_catalog": true,
+      "text_sha256": "fd729256e7ae8d7a747383d1e8d046202d8d3f546f3c82943c031bee90ddf480"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.07718",
+      "title": "[2403.07718] WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?",
+      "checked_at": "2026-10-07T18:08:08.802773+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2403.07718",
+      "referenced_in_catalog": true,
+      "text_sha256": "6325dddba920664d6315c3304726ec6b27e0dab31822079d3236de6e36bf7f17"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.07972",
+      "title": "[2404.07972] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+      "checked_at": "2026-10-07T18:08:07.966093+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2404.07972",
+      "referenced_in_catalog": true,
+      "text_sha256": "9816e9129a465046e4c46762338d2c2a43448287c8c08b4011b0a250a6f34c5a"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.14573",
+      "title": "[2405.14573] AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents",
+      "checked_at": "2026-10-07T18:08:08.803137+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2405.14573",
+      "referenced_in_catalog": true,
+      "text_sha256": "d21fa768316d3c4d09a01bf87b4ec7224168d180be02aa0edf50a25c1201917a"
+    },
+    {
+      "url": "https://arxiv.org/abs/2406.04151",
+      "title": "[2406.04151] AgentGym: Evolving Large Language Model-based Agents across Diverse Environments",
+      "checked_at": "2026-10-07T18:08:07.965767+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2406.04151",
+      "referenced_in_catalog": true,
+      "text_sha256": "9cd35064ed9cf5d69ce8662fd1a3c6e3db46fd820bde3a8038df8592c2fa2f54"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.18901",
+      "title": "[2407.18901] AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents",
+      "checked_at": "2026-10-07T18:08:07.966181+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2407.18901",
+      "referenced_in_catalog": true,
+      "text_sha256": "e4be266883cf7b55e813b9d9efc75eab41daa138c8fbdb404300707948517e83"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04682",
+      "title": "[2408.04682] ToolSandbox: A Stateful, Conversational, Interactive Evaluation Benchmark for LLM Tool Use Capabilities",
+      "checked_at": "2026-10-07T18:11:03.273372+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2408.04682",
+      "referenced_in_catalog": true,
+      "text_sha256": "e906294f6de67f0b5a3ad004fc37dd7167c82c561ff3410b0a2cfc43a407d930"
+    },
+    {
+      "url": "https://arxiv.org/abs/2411.02337",
+      "title": null,
+      "checked_at": "2026-10-08T02:09:30.490200+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.05467",
+      "title": "[2412.05467] The BrowserGym Ecosystem for Web Agent Research",
+      "checked_at": "2026-10-07T18:08:07.965893+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.05467",
+      "referenced_in_catalog": true,
+      "text_sha256": "91e4f1aa4d4bab8253a251f9b320642430b55486b245754427dce4269c3ae35b"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.09605",
+      "title": "[2412.09605] AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials",
+      "checked_at": "2026-10-08T02:09:26.649104+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.09605",
+      "referenced_in_catalog": true,
+      "text_sha256": "4e49ad7c8546dad3ad5e470fbe836e15fd16ae88a9879ee877ec044108e3e677"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.14161",
+      "title": "[2412.14161] TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks",
+      "checked_at": "2026-10-07T18:09:29.444030+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.14161",
+      "referenced_in_catalog": true,
+      "text_sha256": "df86fedf83a2486a2d0df53392f85a79a58aae43dac95bae1a5f47362f8cf9fb"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.19723",
+      "title": "[2412.19723] OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+      "checked_at": "2026-10-08T02:09:26.649142+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.19723",
+      "referenced_in_catalog": true,
+      "text_sha256": "7f60160a042f3ba48505b0cf862f6f2122c6e74029740bc6160f8784ea0852bd"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.21139",
+      "title": "[2412.21139] Training Software Engineering Agents and Verifiers with SWE-Gym",
+      "checked_at": "2026-10-07T18:08:07.078585+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.21139",
+      "referenced_in_catalog": true,
+      "text_sha256": "200b632df8025b5b2bb3960a932201134491b2e2d5c192ef834fd1ffdd8e65b4"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.21154",
+      "title": "[2412.21154] Aviary: training language agents on challenging scientific tasks",
+      "checked_at": "2026-10-07T18:08:41.444588+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2412.21154",
+      "referenced_in_catalog": true,
+      "text_sha256": "1ce73ea8ab71e15f2a1ed610736e11ce2b2d9747497490cc250a0ff698d84fc7"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.06776",
+      "title": "[2502.06776] InSTA: Towards Internet-Scale Training For Agents",
+      "checked_at": "2026-10-08T02:09:29.805987+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2502.06776",
+      "referenced_in_catalog": true,
+      "text_sha256": "d814358e1587fc0789c6b6ff21fffecb3b0f733f530c103fe7a7c4257d66a783"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.07164",
+      "title": "[2504.07164] R2E-Gym: Procedural Environments and Hybrid Verifiers for Scaling Open-Weights SWE Agents",
+      "checked_at": "2026-10-07T18:08:07.078220+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2504.07164",
+      "referenced_in_catalog": true,
+      "text_sha256": "cb0462c54b15a43de8841c5e5afe4d6fc8f5fb89037443273c758dbe7428f929"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.11442",
+      "title": "[2504.11442] TextArena",
+      "checked_at": "2026-10-07T18:09:29.443872+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2504.11442",
+      "referenced_in_catalog": true,
+      "text_sha256": "ce6aab486bb76a70a74f588c447b7756258d8bd28dcdcd863efd634384f4a138"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.21798",
+      "title": "[2504.21798] SWE-smith: Scaling Data for Software Engineering Agents",
+      "checked_at": "2026-10-07T18:08:07.078280+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2504.21798",
+      "referenced_in_catalog": true,
+      "text_sha256": "bb66e98765777ea40937174aaf65a08fa8065c00c3df5c41007cd8f85a084019"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.24760",
+      "title": "[2505.24760] REASONING GYM: Reasoning Environments for Reinforcement Learning with Verifiable Rewards",
+      "checked_at": "2026-10-07T18:08:07.966469+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2505.24760",
+      "referenced_in_catalog": true,
+      "text_sha256": "678eebf012774f8f4eddf43ab296b658233111f065b0e4311dd7599a2df39370"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.07982",
+      "title": "[2506.07982] $τ^2$-Bench: Evaluating Conversational Agents in a Dual-Control Environment",
+      "checked_at": "2026-10-07T18:08:08.802494+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2506.07982",
+      "referenced_in_catalog": true,
+      "text_sha256": "972e1e101225988d9c789b4a13ae070db9905696a9b62ec43c118300db6144e0"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.11045",
+      "title": "[2506.11045] Procedural Environment Generation for Tool-Use Agents",
+      "checked_at": "2026-10-08T02:10:30.138990+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2506.11045",
+      "referenced_in_catalog": true,
+      "text_sha256": "50f391e6d5eb7cdc760081797d856e23bc2416dd4ce24516c1c38e6ff4d97f6f"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.14205",
+      "title": "[2506.14205] AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents",
+      "checked_at": "2026-10-07T18:08:41.445106+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2506.14205",
+      "referenced_in_catalog": true,
+      "text_sha256": "14be52ebb6064aaa3664dfd126993120cc394826aafa2787d52898af9421b454"
+    },
+    {
+      "url": "https://arxiv.org/abs/2508.06471",
+      "title": "[2508.06471] GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+      "checked_at": "2026-10-08T02:50:10.261547+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2508.06471",
+      "referenced_in_catalog": true,
+      "text_sha256": "b2b7736c8eb8c37576701d96d4855397899979a6e4baacb4163bda84f890860d"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.08755",
+      "title": "[2509.08755] AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning",
+      "checked_at": "2026-10-07T18:07:18.433203+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2509.08755",
+      "referenced_in_catalog": true,
+      "text_sha256": "1ed03dae6b5baa490608923f07e3ae73e4616c0979a36663516a0f200ee94e0b"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.17158",
+      "title": "[2509.17158] ARE: Scaling Up Agent Environments and Evaluations",
+      "checked_at": "2026-10-07T18:08:42.268866+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2509.17158",
+      "referenced_in_catalog": true,
+      "text_sha256": "07e8d3e7806b0d1d5a72fd34752933bf9a1409bff3330e92210e52cc4a29d3f8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.17325",
+      "title": "[2509.17325] Generalizable End-to-End Tool-Use RL with Synthetic CodeGym",
+      "checked_at": "2026-10-07T18:08:07.077534+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2509.17325",
+      "referenced_in_catalog": true,
+      "text_sha256": "0cba372a00c6ff46885cfa052835c3c0c3f3bd22eb87d64b8d0d370ca97af7a8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.01051",
+      "title": "[2510.01051] GEM: A Gym for Agentic LLMs",
+      "checked_at": "2026-10-07T18:07:18.433051+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2510.01051",
+      "referenced_in_catalog": true,
+      "text_sha256": "68b8f504985fed5f2c346e96db6f4db4b3b0ac6cdf9434d44808c5d786aac973"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.10197",
+      "title": "[2510.10197] Don't Just Fine-tune the Agent, Tune the Environment",
+      "checked_at": "2026-10-07T18:09:28.590830+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2510.10197",
+      "referenced_in_catalog": true,
+      "text_sha256": "aac92839a8595443a1f9a745f840e6893aa40a536391f78a6c34f6032f342fc7"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.03773",
+      "title": "[2511.03773] Scaling Agent Learning via Experience Synthesis",
+      "checked_at": "2026-10-07T18:07:18.433638+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2511.03773",
+      "referenced_in_catalog": true,
+      "text_sha256": "c98b8c0a969ace8ec9f05b1444454281fc55faa9cecb835f8d8a178233af64bf"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.07317",
+      "title": "[2511.07317] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments",
+      "checked_at": "2026-10-07T18:11:04.144121+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2511.07317",
+      "referenced_in_catalog": true,
+      "text_sha256": "70c1d187947e47b3272294a6dd95ed5eee09712c433fd32e026becd43d2b300a"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.09572",
+      "title": "[2511.09572] SynthTools: A Framework for Scaling Synthetic Tools for Agent Development",
+      "checked_at": "2026-10-07T18:08:41.445341+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2511.09572",
+      "referenced_in_catalog": true,
+      "text_sha256": "c896a8da4904f841cb6cc122f3e03efa8ec41a36ea93e007141712fd0d22b2d7"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.09586",
+      "title": "[2511.09586] Environment Scaling for Interactive Agentic Experience Collection: A Survey",
+      "checked_at": "2026-10-07T18:09:28.590953+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2511.09586",
+      "referenced_in_catalog": true,
+      "text_sha256": "0532e4cf02aa95ce08171fe5db1ba0624b524813a6d8cc5d35c45189ea1ce28e"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.19304",
+      "title": "[2511.19304] AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning",
+      "checked_at": "2026-10-07T18:08:42.288658+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2511.19304",
+      "referenced_in_catalog": true,
+      "text_sha256": "dc340703ec2d68bfd476e1144c8cbc195d14dcfc7ff0914b57b635aa9aa28a22"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.12216",
+      "title": "[2512.12216] Training Versatile Coding Agents in Synthetic Environments",
+      "checked_at": "2026-10-08T02:15:50.537753+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2512.12216",
+      "referenced_in_catalog": true,
+      "text_sha256": "ea3a6edde51c480fed227a7de9748c9b29b5515ed82ed4ec2bf69063aab99028"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.19682",
+      "title": "[2512.19682] GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators",
+      "checked_at": "2026-10-07T18:11:03.273874+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2512.19682",
+      "referenced_in_catalog": true,
+      "text_sha256": "34b15b51c2545e8786377cfb138ce40b7014ba5a99c25e2c32d085ce792ffc3e"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.22857",
+      "title": "[2512.22857] AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning",
+      "checked_at": "2026-10-07T18:08:41.445476+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2512.22857",
+      "referenced_in_catalog": true,
+      "text_sha256": "d9905b7a8bce7bea4a60a6c30b9ad6956e6f701287b44a51394a5f3b08e063b0"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.04126",
+      "title": "[2601.04126] InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training",
+      "checked_at": "2026-10-07T18:11:03.273826+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.04126",
+      "referenced_in_catalog": true,
+      "text_sha256": "b6d2949870124fbd823fc57c4a7ea7384faf92fd1d6c6668fee296b5ca090788"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.05808",
+      "title": "[2601.05808] EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis",
+      "checked_at": "2026-10-07T18:08:41.445446+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.05808",
+      "referenced_in_catalog": true,
+      "text_sha256": "900ad18073d23e9364a68034009ea32f8aaa3047cd2d4d7cfa0de6baa22a597e"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.06328",
+      "title": "[2601.06328] C-World: A Computer Use Agent Environment Creator",
+      "checked_at": "2026-10-07T18:08:42.722914+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.06328",
+      "referenced_in_catalog": true,
+      "text_sha256": "370709eded3a510d72cb9cd6e4b685027fd1b6700c802774053d2c37b9b5c870"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.11868",
+      "title": "[2601.11868] Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces",
+      "checked_at": "2026-10-07T18:09:28.590993+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.11868",
+      "referenced_in_catalog": true,
+      "text_sha256": "a56120e0c26147b5939549a15950d5aa5d8f54f2826997ec6f0eea831bdf7ad9"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.16443",
+      "title": "[2601.16443] Endless Terminals: Scaling RL Environments for Terminal Agents",
+      "checked_at": "2026-10-08T02:22:30.644837+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2601.16443",
+      "referenced_in_catalog": true,
+      "text_sha256": "21c7e86b6b144a0860f4c61498b2b1ccebf238fbf2969e9c37498ec385b79d13"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.01244",
+      "title": "[2602.01244] Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments",
+      "checked_at": "2026-10-08T02:09:26.649177+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.01244",
+      "referenced_in_catalog": true,
+      "text_sha256": "b3b5552693096ba761077eec9bca60b76d2736f6611936425f69c2d686007a83"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.02361",
+      "title": "[2602.02361] SWE-Universe: Scale Real-World Verifiable Environments to Millions",
+      "checked_at": "2026-10-08T02:09:29.627467+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.02361",
+      "referenced_in_catalog": true,
+      "text_sha256": "16227506fb1200f12f2814c146f8c4abda05bec641122f40c9ce70ad4df3b155"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.06820",
+      "title": "[2602.06820] ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training",
+      "checked_at": "2026-10-07T18:07:16.730457+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.06820",
+      "referenced_in_catalog": true,
+      "text_sha256": "444d7d4df2039d677efd023d00107282faf77e5f832c68f79f3359ea22843f43"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.09892",
+      "title": "[2602.09892] Immersion in the GitHub Universe: Scaling Coding Agents to Mastery",
+      "checked_at": "2026-10-08T02:09:29.731585+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.09892",
+      "referenced_in_catalog": true,
+      "text_sha256": "32d9d96cb0c9e20f369b1bae06793f2ef503ab233bbaf6c61bd3a7efa2fe63d7"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.10090",
+      "title": "[2602.10090] Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning",
+      "checked_at": "2026-10-07T18:07:16.730997+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.10090",
+      "referenced_in_catalog": true,
+      "text_sha256": "4fd83b2e3b85ed419fb166e3d54265ece9f87e81039728ecd1257a713fc0aebf"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.10999",
+      "title": "[2602.10999] CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion",
+      "checked_at": "2026-10-08T02:22:30.644294+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.10999",
+      "referenced_in_catalog": true,
+      "text_sha256": "d709ace3d34a4a9c0ae295e6d5ebf690f8bae8fbcaea9a93401cbd0f4a66da7e"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.14721",
+      "title": "[2602.14721] WebWorld: A Large-Scale World Model for Web Agent Training",
+      "checked_at": "2026-10-07T18:11:03.273936+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.14721",
+      "referenced_in_catalog": true,
+      "text_sha256": "4609628dcee60ace9c1228c9aa451159711190827f62d20e0d4786f8191757be"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.21193",
+      "title": "[2602.21193] On Data Engineering for Scaling LLM Terminal Capabilities",
+      "checked_at": "2026-10-08T02:08:35.689327+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.21193",
+      "referenced_in_catalog": true,
+      "text_sha256": "73ba9ce193a4ccc5fd6ec8fa573fd2b4a871662778575ab148c481fbf5a033e2"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.23866",
+      "title": "[2602.23866] SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale",
+      "checked_at": "2026-10-07T18:08:07.079245+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2602.23866",
+      "referenced_in_catalog": true,
+      "text_sha256": "5d939fb995740600ed474f2340cd356e97b0223055b3b87535aad586301d958a"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.13023",
+      "title": "[2603.13023] daVinci-Env: Open SWE Environment Synthesis at Scale",
+      "checked_at": "2026-10-07T18:07:17.604110+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2603.13023",
+      "referenced_in_catalog": true,
+      "text_sha256": "60860957dba917269329f06002747ef5dea89df2f3b36ae48e38083f906401ea"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06126",
+      "title": "[2604.06126] Gym-Anything: Turn any Software into an Agent Environment",
+      "checked_at": "2026-10-07T18:07:18.444364+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2604.06126",
+      "referenced_in_catalog": true,
+      "text_sha256": "f2a41913fe947ff744684f29aaade487b6e63789d074d6011fc9d7db6182623e"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10988",
+      "title": "[2604.10988] WebForge: Breaking the Realism-Reproducibility-Scalability Trilemma in Browser Agent Benchmark",
+      "checked_at": "2026-10-08T02:09:28.496423+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2604.10988",
+      "referenced_in_catalog": true,
+      "text_sha256": "9e11f40a84979040b156e5d4591a37305172cd9781b0fb80df2256e3b4cb1b56"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18292",
+      "title": "[2604.18292] Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "checked_at": "2026-10-07T18:07:17.603959+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2604.18292",
+      "referenced_in_catalog": true,
+      "text_sha256": "749a9a42613f56fb4bc6e0ecabfc996e6f3279e691ecc51094c43fb698c56c93"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18543",
+      "title": "[2604.18543] ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
+      "checked_at": "2026-10-08T02:10:30.138298+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2604.18543",
+      "referenced_in_catalog": true,
+      "text_sha256": "e096fa80290b0aa2e0471dc266adaea99474595cc0491167418d5dd8944f710f"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.25727",
+      "title": "[2604.25727] Toward Scalable Terminal Task Synthesis via Skill Graphs",
+      "checked_at": "2026-10-08T02:08:35.689263+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2604.25727",
+      "referenced_in_catalog": true,
+      "text_sha256": "31dd5b9f5440585ecfa3317600ead0cc08c3144d6d703cf8a91f5dedf7e4906c"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.14392",
+      "title": "[2605.14392] Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis",
+      "checked_at": "2026-10-07T18:11:04.144059+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.14392",
+      "referenced_in_catalog": true,
+      "text_sha256": "cc410b14f310d896e5f533cf955c6201a16ced0e639102847237df1da3baca89"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18703",
+      "title": "[2605.18703] EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+      "checked_at": "2026-10-07T18:08:42.255325+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.18703",
+      "referenced_in_catalog": true,
+      "text_sha256": "aac6d5fb91d7252b540daa9627fb6e53e85e832d4a4f05b0a825f653336600cd"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20744",
+      "title": "[2605.20744] Hack-Verifiable Environments: Towards Evaluating Reward Hacking at Scale",
+      "checked_at": "2026-10-07T18:09:28.590786+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.20744",
+      "referenced_in_catalog": true,
+      "text_sha256": "70c123d3f148c81f2c78170f760d5f6be576ed50ef27e62a9a58d6797d8cde80"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20876",
+      "title": "[2605.20876] Terminal-World: Scaling Terminal-Agent Environments via Agent Skills",
+      "checked_at": "2026-10-08T02:08:35.689300+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.20876",
+      "referenced_in_catalog": true,
+      "text_sha256": "cd0bf22e0cf1909b18aa47030878223451f9d824cfb559b5dd3caaf6c87e8f5d"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.22535",
+      "title": "[2605.22535] TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks",
+      "checked_at": "2026-10-08T02:10:30.139152+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2605.22535",
+      "referenced_in_catalog": true,
+      "text_sha256": "78174510c35e635ad078b3d4551ff1941b6698aba236b64b35926d4650369c6d"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.10728",
+      "title": "[2606.10728] DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch",
+      "checked_at": "2026-10-08T02:15:50.537822+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.10728",
+      "referenced_in_catalog": true,
+      "text_sha256": "3d1d481b59fef4e88bef45c0ce2792504fe4c5a630149f4bbdc8387fa1e36388"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12191",
+      "title": "[2606.12191] Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+      "checked_at": "2026-10-07T18:07:18.403886+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.12191",
+      "referenced_in_catalog": true,
+      "text_sha256": "6b9aa59c79f8a5f3a2690f2711667cb077ce07db076e4a54a70375a490a7f830"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19348",
+      "title": "[2606.19348] DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "checked_at": "2026-10-08T02:51:42.658360+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.19348",
+      "referenced_in_catalog": true,
+      "text_sha256": "67babc255bc21348c988914f986db394bcb4789f326890dcbf157d7a774a6ae9"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.22883",
+      "title": "[2606.22883] CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
+      "checked_at": "2026-10-08T02:09:26.648276+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.22883",
+      "referenced_in_catalog": true,
+      "text_sha256": "2e1e6029833ab4060be1463f161fdbab60e09d2d7a87eb04853fe7cd13be5d54"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24855",
+      "title": "[2606.24855] OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "checked_at": "2026-10-08T02:09:26.649055+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2606.24855",
+      "referenced_in_catalog": true,
+      "text_sha256": "f184ad3d26c7650a2048c564687ab7ec7d76c8ea5969a0a8297ab546b3f4072d"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.11818",
+      "title": "[2607.11818] MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents",
+      "checked_at": "2026-10-07T18:11:03.273755+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2607.11818",
+      "referenced_in_catalog": true,
+      "text_sha256": "ac4754a7a835495eca672ced79aaabefa2d729bccd7a08f978f2ddc231f989c5"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14186",
+      "title": "[2607.14186] NexForge: Scaling Agent Capabilities through Requirement-Driven Task Synthesis for LLMs",
+      "checked_at": "2026-10-08T02:08:35.688691+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2607.14186",
+      "referenced_in_catalog": true,
+      "text_sha256": "8700ff2bd125267b4db1af7c66225cb15bacb44a9689331d6415ff2f418023a8"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.24653",
+      "title": "[2607.24653] Kimi K3: Open Frontier Intelligence",
+      "checked_at": "2026-10-08T02:48:08.198014+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2607.24653",
+      "referenced_in_catalog": true,
+      "text_sha256": "4634abcc46745ffbd29bc058452f0719ceb5e65e3e49adc30106a18cbe1e26e2"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02287",
+      "title": "[2608.02287] SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation",
+      "checked_at": "2026-10-08T02:08:35.689216+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.02287",
+      "referenced_in_catalog": true,
+      "text_sha256": "444ea3cc893500532362c7f36b6cc1a79217c5759b3993feeb51580a70cfa6ee"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03571",
+      "title": "[2608.03571] Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning",
+      "checked_at": "2026-10-07T18:09:28.590205+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.03571",
+      "referenced_in_catalog": true,
+      "text_sha256": "798ae60bad8c41c3fd48c3bcf7805fc08b2fb8a00d10fb4d28277c5e524568f9"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06197",
+      "title": "[2608.06197] EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
+      "checked_at": "2026-10-07T18:08:42.324589+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.06197",
+      "referenced_in_catalog": true,
+      "text_sha256": "223fdb0f595fac0107267cf228b7af080ae7abbbc761095e79631394ad197de2"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06352",
+      "title": "[2608.06352] CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "checked_at": "2026-10-08T02:15:50.537159+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.06352",
+      "referenced_in_catalog": true,
+      "text_sha256": "47c627e1a6ea867a2db61100fc374e9363cb54b22d635ac2e3f8fd36ac10e742"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14312",
+      "title": "[2608.14312] Envs-FORGE: Frontier-Optimized Reward-Grounded Environment Synthesis for Agent RL",
+      "checked_at": "2026-10-07T18:07:17.603988+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.14312",
+      "referenced_in_catalog": true,
+      "text_sha256": "516436dbdfded7762567de3bdba9b59a37264753ed137c5777f6b5ae684b5eee"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19197",
+      "title": "[2608.19197] SPADE: Self-Play in Adaptive Synthetic Executable Environments",
+      "checked_at": "2026-10-07T18:07:16.731158+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.19197",
+      "referenced_in_catalog": true,
+      "text_sha256": "afec086220ecc8396e4f3425a906f52abf51b058d0ed5d71c478c82aaa1e1d9d"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19880",
+      "title": "[2608.19880] EnvHarness: Awakening Static Worlds for Agent Learning",
+      "checked_at": "2026-10-07T18:07:16.731047+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.19880",
+      "referenced_in_catalog": true,
+      "text_sha256": "4591a1846622571f55203b1a97f7b8b2da9e3951f0d54953235e1ca7754c1f6b"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20634",
+      "title": "[2608.20634] AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale",
+      "checked_at": "2026-10-08T02:15:50.537998+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2608.20634",
+      "referenced_in_catalog": true,
+      "text_sha256": "c96fa7b3d100f0fa3af816c55ec29e042c7a3458afc0147e6fbc0a9275d59585"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22592",
+      "title": "[2609.22592] AutoGym: Blueprint-First Generation of Verifiable Agent Gyms",
+      "checked_at": "2026-10-07T18:07:17.603054+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2609.22592",
+      "referenced_in_catalog": true,
+      "text_sha256": "7e2dddf015a079e19c8d88c6c23118d353d8bee6bf44de66bf5bdc2e7602badb"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22978",
+      "title": "[2609.22978] DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale",
+      "checked_at": "2026-10-08T02:48:08.198135+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2609.22978",
+      "referenced_in_catalog": true,
+      "text_sha256": "9a5f3e17224a6f3aa5870c7d767c91e6033df244b2f6ed5160464c961bbb8fa4"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.26826",
+      "title": "[2609.26826] What Makes a Terminal-Bench Task Hard? Separating Genuine Hardness from Fake-Hardness on an Adjudicated Agentic Corpus",
+      "checked_at": "2026-10-07T18:09:29.477845+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2609.26826",
+      "referenced_in_catalog": true,
+      "text_sha256": "18913b5c03d1a763837e334a91cbc9c9ec044223d01c235a4b4e8c3ddf67b510"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.33665",
+      "title": "[2609.33665] CompoWorld: Compositional Environment Scaling for General Agents",
+      "checked_at": "2026-10-08T02:52:09.870076+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2609.33665",
+      "referenced_in_catalog": true,
+      "text_sha256": "93cb24fbc11c6fbe3fbae11c0b701ee5d4ea6893c5513d64b4bc8e4edb1a2882"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.33772",
+      "title": "[2609.33772] Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents",
+      "checked_at": "2026-10-07T18:07:17.603899+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2609.33772",
+      "referenced_in_catalog": true,
+      "text_sha256": "b9e15c58fbf659e7025089ae37f12ea855e39e9f7f75bf669a190143d5994ff0"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.04008",
+      "title": "[2610.04008] SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown",
+      "checked_at": "2026-10-08T02:08:37.349258+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2610.04008",
+      "referenced_in_catalog": true,
+      "text_sha256": "70dd173c58431d3e5eae9f9b58148dc4a8f9601526866dc9f07b921a280abcf3"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05161",
+      "title": "[2610.05161] Beyond Instruction Following: Learning Grounded Skill-Following with Skill Contracts",
+      "checked_at": "2026-10-08T02:08:37.856729+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2610.05161",
+      "referenced_in_catalog": true,
+      "text_sha256": "4ff555295ae9a5288aee1d74d484f044776613b820212b1f9fa95678196352cf"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05923",
+      "title": "[2610.05923] VERA: Scaling Verifiable Environments for Agentic co-Evolution",
+      "checked_at": "2026-10-07T18:07:16.731074+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/abs/2610.05923",
+      "referenced_in_catalog": true,
+      "text_sha256": "283b539f3acaab7804a72875e7388efaf4bcf29de94f015ac08d5dc659bf2869"
+    },
+    {
+      "url": "https://arxiv.org/html/2010.03768",
+      "title": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+      "checked_at": "2026-10-07T18:29:50.532611+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2010.03768",
+      "referenced_in_catalog": true,
+      "text_sha256": "4619ba390ee21935885d247ee15a14b7251504ad888da40f79b743030c66f43a"
+    },
+    {
+      "url": "https://arxiv.org/html/2506.11045",
+      "title": "Procedural Environment Generation for Tool-Use Agents",
+      "checked_at": "2026-10-08T02:15:18.113102+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2506.11045",
+      "referenced_in_catalog": false,
+      "text_sha256": "ebc631ed4bf446575e7104bba990ebf02ca8803c8ddd9d91db6c1aba0f347222"
+    },
+    {
+      "url": "https://arxiv.org/html/2508.06471",
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+      "checked_at": "2026-10-08T02:50:10.987694+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2508.06471",
+      "referenced_in_catalog": false,
+      "text_sha256": "63155c029ba847265d81e0e68a5b1f8b32f1c80e3239d14dbbf701fe4d4d4ed0"
+    },
+    {
+      "url": "https://arxiv.org/html/2508.06471v1",
+      "title": "GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models",
+      "checked_at": "2026-10-08T03:05:28.189923+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2508.06471v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "63155c029ba847265d81e0e68a5b1f8b32f1c80e3239d14dbbf701fe4d4d4ed0"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.03773v1",
+      "title": "Scaling Agent Learning via Experience Synthesis",
+      "checked_at": "2026-10-07T18:08:45.124525+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2511.03773v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "007394c7f308bfc679f4191fb5f65e85837fca0380fb4eca674b63c627ecca4b"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.07317v1",
+      "title": "RLVE: Scaling Up Reinforcement Learning for Language Modelswith Adaptive Verifiable Environments",
+      "checked_at": "2026-10-07T18:11:53.483235+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2511.07317v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "c4369ac7ba54e0bc97c8f6764297c239a15483717c44604978e0d13ac6802680"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.09572v1",
+      "title": "SynthTools: A Framework for Scaling Synthetic Tools for Agent Development",
+      "checked_at": "2026-10-07T18:11:53.574795+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2511.09572v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "9bf862e3a5092cb2ad050609b25b3d47aaaf78fae758a56e7cab64b8b29ae376"
+    },
+    {
+      "url": "https://arxiv.org/html/2512.12216",
+      "title": "Training Versatile Coding Agents in Synthetic Environments",
+      "checked_at": "2026-10-08T02:15:56.102113+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2512.12216",
+      "referenced_in_catalog": false,
+      "text_sha256": "81dc85563636bc38c8aa07800e90a3a7d4dadeef98b9ef471ab57a62c6f09052"
+    },
+    {
+      "url": "https://arxiv.org/html/2512.22857v1",
+      "title": "AutoForge: Automated Environment Synthesis for Agentic Reinforcement Learning",
+      "checked_at": "2026-10-07T18:11:52.437611+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2512.22857v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "2f269f33bff0d23df56d4561e2505990862db5ba9b65db9948bf678097b2258d"
+    },
+    {
+      "url": "https://arxiv.org/html/2601.04126v1",
+      "title": "InfiniteWeb: Scalable Web Environment Synthesis for GUI Agent Training",
+      "checked_at": "2026-10-07T18:11:52.947888+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2601.04126v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "07c05d8e9015f827d6cd5287b629cda5b97ed3581bfecacf42c3866f6448d8c5"
+    },
+    {
+      "url": "https://arxiv.org/html/2601.16443",
+      "title": "Endless Terminals: Scaling RL Environments for Terminal Agents",
+      "checked_at": "2026-10-08T02:22:30.644862+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2601.16443",
+      "referenced_in_catalog": true,
+      "text_sha256": "3842e773d58cbb9c7d3ff62fe503358a70bedd74cc18d24bd08ecf8773dcea9b"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.02361",
+      "title": "SWE-Universe: Scale Real-World Verifiable Environments to Millions",
+      "checked_at": "2026-10-08T02:15:21.753334+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.02361",
+      "referenced_in_catalog": false,
+      "text_sha256": "624cc4aa5aea1f1b95584421b5f1e140293354bb10284d015941bef01de092ea"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.06820v1",
+      "title": "ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training",
+      "checked_at": "2026-10-07T18:08:43.600411+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.06820v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "389c8c01cca218189ea5483c904a76f7c9c715e3f4622c36d44cc5084b16ccb6"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.09892",
+      "title": "Immersion in the GitHub Universe: Scaling Coding Agents to Mastery",
+      "checked_at": "2026-10-08T02:15:22.293937+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.09892",
+      "referenced_in_catalog": false,
+      "text_sha256": "f73c9784c53dfd26812f5e0fa2089970532004a67abd49709d9e6d4179f6db1b"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.10999",
+      "title": "1Introduction",
+      "checked_at": "2026-10-08T02:22:30.644743+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.10999",
+      "referenced_in_catalog": true,
+      "text_sha256": "e83214d3ba548dab0e46f84e3bb4e396d17616f86a2cd93a40e00494fd7aaa9d"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.14721v1",
+      "title": "WebWorld: A Large-Scale World Model for Web Agent Training",
+      "checked_at": "2026-10-07T18:11:52.632136+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.14721v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "e98b65665837ab1ed6ece9e4557b9c5c50df4bb999c80ec6066b9c6d259b7517"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.21193",
+      "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
+      "checked_at": "2026-10-08T02:09:58.903797+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2602.21193",
+      "referenced_in_catalog": false,
+      "text_sha256": "4429dfd952aea97202398eac15164ab7d377debffa7ea98a762779253ea798fa"
+    },
+    {
+      "url": "https://arxiv.org/html/2603.13023v1",
+      "title": "daVinci-Env: Open SWE Environment Synthesis at Scale",
+      "checked_at": "2026-10-07T18:08:45.124139+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2603.13023v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "8999ba3702667a9d1aa0ef8d99bcb3f955a639e5fbb7510efc7028ab35c2ccb3"
+    },
+    {
+      "url": "https://arxiv.org/html/2604.06126v1",
+      "title": "Gym-Anything: Turn any Software into an Agent Environment",
+      "checked_at": "2026-10-07T18:08:45.446280+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2604.06126v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "b18ac746b59a9ebfefdf8b829c4a8bdbe67700d5119baa6f2d5897e71cbfb3d4"
+    },
+    {
+      "url": "https://arxiv.org/html/2604.18292v1",
+      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "checked_at": "2026-10-07T18:08:44.909421+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2604.18292v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "7858f2532ba23f0af2b1bc74400bd176fdc0b8a87a56245f91a42554c31c984a"
+    },
+    {
+      "url": "https://arxiv.org/html/2604.18543",
+      "title": "ClawEnvKit: Automatic Environment Generation for Claw-Like Agents",
+      "checked_at": "2026-10-08T02:15:21.536693+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2604.18543",
+      "referenced_in_catalog": false,
+      "text_sha256": "0e7ea69a2504312f99bffd5d9949197328b9adead508fbc098ca75f5e99acf9c"
+    },
+    {
+      "url": "https://arxiv.org/html/2604.25727",
+      "title": "Toward Scalable Terminal Task Synthesis via Skill Graphs",
+      "checked_at": "2026-10-08T02:09:58.903695+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2604.25727",
+      "referenced_in_catalog": false,
+      "text_sha256": "944f43d2da41b69fa5c5ba33799a6c15c18894ad5a77739212d9c64a3821ecec"
+    },
+    {
+      "url": "https://arxiv.org/html/2605.14392v1",
+      "title": "Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis",
+      "checked_at": "2026-10-07T18:11:53.198418+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2605.14392v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "d194233c6cad9a9214c1957ace89bb583e4595396abc2e2b8e8cb7994bb939dc"
+    },
+    {
+      "url": "https://arxiv.org/html/2605.18703v1",
+      "title": "EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL",
+      "checked_at": "2026-10-07T18:11:51.315317+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2605.18703v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "4de7488e8f2afdac5bdc9397f862ba600fec8b4f0ded5eebc52d95b9a8bb78a9"
+    },
+    {
+      "url": "https://arxiv.org/html/2605.20876",
+      "title": "Terminal-World: Scaling Terminal-Agent Environments via Agent Skills",
+      "checked_at": "2026-10-08T02:09:58.902900+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2605.20876",
+      "referenced_in_catalog": false,
+      "text_sha256": "58815de4dba389d2f43e4ddc87164cae11e0bb507c5f183b77839a0b51451bc4"
+    },
+    {
+      "url": "https://arxiv.org/html/2606.12191v1",
+      "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+      "checked_at": "2026-10-07T18:08:43.599875+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.12191v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "a97bf0d259d81cec128dad5b675ac938a99ab36501696694ad91d204f760dbb7"
+    },
+    {
+      "url": "https://arxiv.org/html/2606.19348",
+      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "checked_at": "2026-10-08T02:51:42.658614+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.19348",
+      "referenced_in_catalog": false,
+      "text_sha256": "fb01502128fa72454aeac8433a4660a2166ed4723001633366c94cf46637cfc0"
+    },
+    {
+      "url": "https://arxiv.org/html/2606.19348v1",
+      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
+      "checked_at": "2026-10-08T03:05:28.189451+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.19348v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "fb01502128fa72454aeac8433a4660a2166ed4723001633366c94cf46637cfc0"
+    },
+    {
+      "url": "https://arxiv.org/html/2606.22883",
+      "title": "CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents",
+      "checked_at": "2026-10-08T02:10:02.157055+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2606.22883",
+      "referenced_in_catalog": false,
+      "text_sha256": "976e173b757a812e621235bd731fcc805e34d3539816b1e5384de3483659377f"
+    },
+    {
+      "url": "https://arxiv.org/html/2607.14186",
+      "title": null,
+      "checked_at": "2026-10-08T02:09:58.903829+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://arxiv.org/html/2607.24653",
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "checked_at": "2026-10-08T02:48:08.197389+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2607.24653",
+      "referenced_in_catalog": false,
+      "text_sha256": "0c6f2dbf5ff55adfcafd33f39efbba3243c79b7057bf5981b0639f4aca8d535f"
+    },
+    {
+      "url": "https://arxiv.org/html/2608.02287",
+      "title": "SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation",
+      "checked_at": "2026-10-08T02:09:58.903636+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2608.02287",
+      "referenced_in_catalog": false,
+      "text_sha256": "933b0ccd8553a11714724ad119a9af8a3c523e9955a9bde7be4af291ebb98a0e"
+    },
+    {
+      "url": "https://arxiv.org/html/2608.06352",
+      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "checked_at": "2026-10-08T02:15:50.538057+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2608.06352",
+      "referenced_in_catalog": false,
+      "text_sha256": "da122e4cba9c5252182a997183df59027c17e1390f70e6e22ab9f733f3049151"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.22592v1",
+      "title": "AutoGym: Blueprint-First Generation of Verifiable Agent Gyms",
+      "checked_at": "2026-10-07T18:08:43.600520+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.22592v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "868ac9f71cd215e1fcbdde369da68fcbc105d0ccd757e48f0dde0a103cff4954"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.22978",
+      "title": "DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale",
+      "checked_at": "2026-10-08T02:48:08.198098+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.22978",
+      "referenced_in_catalog": false,
+      "text_sha256": "497c5daf59e01c12e11ec7a32214fb307246516dca6a097376f598e4869a8b93"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.22978v1",
+      "title": "DeepSeek Elastic Compute (DSec): A Sandbox Infrastructure for Effective Agentic Training at Scale",
+      "checked_at": "2026-10-08T03:05:28.189978+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.22978v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "497c5daf59e01c12e11ec7a32214fb307246516dca6a097376f598e4869a8b93"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.33772v1",
+      "title": "Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents",
+      "checked_at": "2026-10-07T18:08:43.600493+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.33772v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "7064c1526422b754de822b72224fd9a9538b875566c2020731de616cb3d3fdc0"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.33772v2",
+      "title": "Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents",
+      "checked_at": "2026-10-08T02:50:03.316098+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2609.33772v2",
+      "referenced_in_catalog": true,
+      "text_sha256": "7064c1526422b754de822b72224fd9a9538b875566c2020731de616cb3d3fdc0"
+    },
+    {
+      "url": "https://arxiv.org/html/2610.04008",
+      "title": "SkillScriptBench: Benchmarking Self-Evolution of Executable Agent Skill Packages Beyond Markdown",
+      "checked_at": "2026-10-08T02:10:03.959296+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2610.04008",
+      "referenced_in_catalog": false,
+      "text_sha256": "22f7f3e1231a6a818ee57c7c53a36cf44f8c7bb489a753a40fe3d83bb2cdcc68"
+    },
+    {
+      "url": "https://arxiv.org/html/2610.05161",
+      "title": "Beyond Instruction Following: Learning Grounded Skill-Following with Skill Contracts",
+      "checked_at": "2026-10-08T02:10:04.482156+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2610.05161",
+      "referenced_in_catalog": true,
+      "text_sha256": "1d8ac0daa32cc5de80f48e8aa9e856742f0121c7c96b18bef67917c42b36bbf6"
+    },
+    {
+      "url": "https://arxiv.org/html/2610.05923v1",
+      "title": "VERA: Scaling Verifiable Environments for Agentic co-Evolution",
+      "checked_at": "2026-10-07T18:08:43.600294+00:00",
+      "status": 200,
+      "final_url": "https://arxiv.org/html/2610.05923v1",
+      "referenced_in_catalog": false,
+      "text_sha256": "6491365b39f84f7bdc8ce1c4dad46006bc8a440710fde99faf764db8a1fcd848"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+      "title": "Custom reward functions for multi-turn reinforcement learning with Amazon Nova Forge | Artificial Intelligence",
+      "checked_at": "2026-10-08T03:15:15.979820+00:00",
+      "status": 200,
+      "final_url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+      "referenced_in_catalog": true,
+      "text_sha256": "ec9d533851832113e02a192adeaad1bee5f82731408063c1fa5622f8db673be8"
+    },
+    {
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+      "title": "Deploying Multi-Turn RL Infrastructure for Amazon Nova on Amazon SageMaker HyperPod | Artificial Intelligence",
+      "checked_at": "2026-10-08T03:15:17.461322+00:00",
+      "status": 200,
+      "final_url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+      "referenced_in_catalog": true,
+      "text_sha256": "a7024118f1c36241ed7ad70a2fcc60aa815f2ebade331e1fe1bd3c59c19c781c"
+    },
+    {
+      "url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
+      "title": "Browser Agent Benchmark: Comparing LLM Models for Web Automation",
+      "checked_at": "2026-10-08T02:10:30.139258+00:00",
+      "status": 200,
+      "final_url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
+      "referenced_in_catalog": true,
+      "text_sha256": "a40aa7163ecdbcf423bf4527df4833eab7f91775cfcfe380ecfdad6c2a50062c"
+    },
+    {
+      "url": "https://cmu-l3.github.io/gym-anything",
+      "title": "Gym-Anything: Turn Any Software into an Agent Environment",
+      "checked_at": "2026-10-07T18:09:43.454589+00:00",
+      "status": 200,
+      "final_url": "https://cmu-l3.github.io/gym-anything/",
+      "referenced_in_catalog": true,
+      "text_sha256": "4723300c15b6f57cf3ad4ddec499d4154485811deb696c8098238882bd7a4728"
+    },
+    {
+      "url": "https://cognition.com/blog/swe-1-5",
+      "title": "Introducing SWE-1.5: Our Fast Agent Model | Cognition",
+      "checked_at": "2026-10-08T03:15:14.713201+00:00",
+      "status": 200,
+      "final_url": "https://cognition.com/blog/swe-1-5",
+      "referenced_in_catalog": true,
+      "text_sha256": "42358ed9535b4b6bf35aac4e043889afc6786e0bf6ab8e3b326a123f053b3c4e"
+    },
+    {
+      "url": "https://cursor.com/blog/composer-2-technical-report",
+      "title": "A technical report on Composer 2 · Cursor",
+      "checked_at": "2026-10-07T18:10:57.550933+00:00",
+      "status": 200,
+      "final_url": "https://cursor.com/blog/composer-2-technical-report",
+      "referenced_in_catalog": true,
+      "text_sha256": "ae6ddc1c654978fe916f7235ec02da5f919e4c59031cf7ebf1ed64371073b784"
+    },
+    {
+      "url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+      "title": "Genie 2: A large-scale foundation world model — Google DeepMind",
+      "checked_at": "2026-10-08T03:15:18.848929+00:00",
+      "status": 200,
+      "final_url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+      "referenced_in_catalog": true,
+      "text_sha256": "c9ad94a2ee6ced5dbe2d2a6f108f4d5f47bac1f5c3f5e69570eebfb8d68a575c"
+    },
+    {
+      "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+      "title": "Genie 3: A new frontier for world models — Google DeepMind",
+      "checked_at": "2026-10-08T02:50:07.094865+00:00",
+      "status": 200,
+      "final_url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+      "referenced_in_catalog": true,
+      "text_sha256": "c9ad94a2ee6ced5dbe2d2a6f108f4d5f47bac1f5c3f5e69570eebfb8d68a575c"
+    },
+    {
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "title": "SIMA 2: A Gemini-Powered AI Agent for 3D Virtual Worlds — Google DeepMind",
+      "checked_at": "2026-10-08T02:51:24.307900+00:00",
+      "status": 200,
+      "final_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "referenced_in_catalog": true,
+      "text_sha256": "c9ad94a2ee6ced5dbe2d2a6f108f4d5f47bac1f5c3f5e69570eebfb8d68a575c"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/?p=119368",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog",
+      "checked_at": "2026-10-08T03:15:09.946870+00:00",
+      "status": 200,
+      "final_url": "https://developer.nvidia.com/blog/?p=119368",
+      "referenced_in_catalog": false,
+      "text_sha256": "26a078d1bc923368be78935a16664bf4c34af315398540308bbd77052da6302f"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/?p=123038",
+      "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay | NVIDIA Technical Blog",
+      "checked_at": "2026-10-08T02:15:25.960823+00:00",
+      "status": 200,
+      "final_url": "https://developer.nvidia.com/blog/?p=123038",
+      "referenced_in_catalog": true,
+      "text_sha256": "1d8adfa03c868dd9d34afe64f2d3cfb32f9203dd2370a645016336ee65b1ab6b"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "title": "How to Evaluate AI Agents From Tool Calls to Task Completion | NVIDIA Technical Blog",
+      "checked_at": "2026-10-08T02:15:24.636768+00:00",
+      "status": 200,
+      "final_url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "referenced_in_catalog": true,
+      "text_sha256": "b50b65f119d4fa9082b4ce2030ea1efcf0e08c42d0fccb772b6316053ad532af"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "title": "How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo | NVIDIA Technical Blog",
+      "checked_at": "2026-10-08T03:27:23.283486+00:00",
+      "status": 200,
+      "final_url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+      "referenced_in_catalog": true,
+      "text_sha256": "26a078d1bc923368be78935a16664bf4c34af315398540308bbd77052da6302f"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+      "title": "How to Train Scientific Agents with Reinforcement Learning | NVIDIA Technical Blog",
+      "checked_at": "2026-10-07T18:09:42.404473+00:00",
+      "status": 200,
+      "final_url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+      "referenced_in_catalog": true,
+      "text_sha256": "0784317e776074d5a87854ae54e24dfef42628b06c6231cdc6b5a55f68ca4093"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+      "title": "Mastering Agentic Techniques: AI Agent Reinforcement Learning | NVIDIA Technical Blog",
+      "checked_at": "2026-10-08T03:15:11.230738+00:00",
+      "status": 200,
+      "final_url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+      "referenced_in_catalog": true,
+      "text_sha256": "24d07c1d27bc64b62832f0b2287068878838a1f1409ac2df7d0d60533db0c462"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/AgentEnv",
+      "title": "GitHub - AllSpark-Research/AgentEnv: Allspark Agent Data & Environment Synthesis · GitHub",
+      "checked_at": "2026-10-08T02:51:24.307513+00:00",
+      "status": 200,
+      "final_url": "https://github.com/AllSpark-Research/AgentEnv",
+      "referenced_in_catalog": true,
+      "text_sha256": "65812583f7f04fa09d9b4ab6341eda50f3a9e35b6e5defe7cbf38052fabeed64"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/AgentEnv/tree/main/Skill2Env",
+      "title": "AgentEnv/Skill2Env at main · AllSpark-Research/AgentEnv · GitHub",
+      "checked_at": "2026-10-08T02:52:09.869666+00:00",
+      "status": 200,
+      "final_url": "https://github.com/AllSpark-Research/AgentEnv/tree/main/Skill2Env",
+      "referenced_in_catalog": true,
+      "text_sha256": "54a9cc061ee6c4d2198167b07d7732d15e5f0e053f0fd5a01cdd57729dd139be"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/Skill2Env",
+      "title": "AllSpark-Research/Skill2Env · GitHub",
+      "checked_at": "2026-10-07T18:10:29.566832+00:00",
+      "status": 200,
+      "final_url": "https://github.com/AllSpark-Research/Skill2Env",
+      "referenced_in_catalog": false,
+      "text_sha256": "30c19b65adcc0f913590a53ebec4965744d68e869638a5c9ca6093aa8e107087"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/CalibForge",
+      "title": "GitHub - AweAI-Team/CalibForge · GitHub",
+      "checked_at": "2026-10-08T02:17:37.125645+00:00",
+      "status": 200,
+      "final_url": "https://github.com/AweAI-Team/CalibForge",
+      "referenced_in_catalog": true,
+      "text_sha256": "2a0f8443217b6306980d62ada24f3cebf6467b0c80450522cac4cb95abbf245c"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/DeNovoSWE",
+      "title": "GitHub - AweAI-Team/DeNovoSWE: Scaling Long-Horizon SWE Environments · GitHub",
+      "checked_at": "2026-10-08T02:15:56.615482+00:00",
+      "status": 200,
+      "final_url": "https://github.com/AweAI-Team/DeNovoSWE",
+      "referenced_in_catalog": true,
+      "text_sha256": "7bea95ec038f7ef50f639372dd169c67433267c71e436cacf574f36203c1747a"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/ScaleSWE",
+      "title": "GitHub - AweAI-Team/ScaleSWE · GitHub",
+      "checked_at": "2026-10-08T02:15:12.809153+00:00",
+      "status": 200,
+      "final_url": "https://github.com/AweAI-Team/ScaleSWE",
+      "referenced_in_catalog": true,
+      "text_sha256": "a206c47bbef184819014ffe704e81197419119ee2d0a4a086deef17bf0e651a0"
+    },
+    {
+      "url": "https://github.com/DataArcTech/DataArc-SynData-Toolkit",
+      "title": "GitHub - DataArcTech/DataArc-SynData-Toolkit: Synthetic Data Generation Platform By DataArcTech · GitHub",
+      "checked_at": "2026-10-07T18:10:32.728755+00:00",
+      "status": 200,
+      "final_url": "https://github.com/DataArcTech/DataArc-SynData-Toolkit",
+      "referenced_in_catalog": true,
+      "text_sha256": "dfd931f58bbe4cd8c0f4df5834a5ff826125852e65e0a146eb70f4ee3e79022c"
+    },
+    {
+      "url": "https://github.com/EuniAI/TerminalWorld",
+      "title": "GitHub - EuniAI/TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks · GitHub",
+      "checked_at": "2026-10-08T02:15:10.166833+00:00",
+      "status": 200,
+      "final_url": "https://github.com/EuniAI/TerminalWorld",
+      "referenced_in_catalog": true,
+      "text_sha256": "6b37e7dda093b586069043d73cdf8ddcd909457c75b49f9188c5be0f374581de"
+    },
+    {
+      "url": "https://github.com/FoundationAgents/AutoEnv",
+      "title": "GitHub - FoundationAgents/AutoEnv: Scaling Agentic Environments Automatically. · GitHub",
+      "checked_at": "2026-10-07T18:10:31.459162+00:00",
+      "status": 200,
+      "final_url": "https://github.com/FoundationAgents/AutoEnv",
+      "referenced_in_catalog": true,
+      "text_sha256": "1453d1158c65fc49403f7355cf8a4a524b0be421c4115e06735e587dce52ceb5"
+    },
+    {
+      "url": "https://github.com/Future-House/aviary",
+      "title": "GitHub - Future-House/aviary: A language agent gym with challenging scientific tasks · GitHub",
+      "checked_at": "2026-10-07T18:10:33.150894+00:00",
+      "status": 200,
+      "final_url": "https://github.com/Future-House/aviary",
+      "referenced_in_catalog": true,
+      "text_sha256": "bcbdf8f815a9b6a4f213fd8a02bd677b37c659c9eb0827257c8337b9dd81e5b2"
+    },
+    {
+      "url": "https://github.com/GAIR-NLP/OpenSWE",
+      "title": "GitHub - GAIR-NLP/OpenSWE · GitHub",
+      "checked_at": "2026-10-07T18:10:29.652263+00:00",
+      "status": 200,
+      "final_url": "https://github.com/GAIR-NLP/OpenSWE",
+      "referenced_in_catalog": true,
+      "text_sha256": "6b5016eaf24e8083f8abcd3c65991575c64baaf72cb2beb2379cf5fae51cabef"
+    },
+    {
+      "url": "https://github.com/GaryStack/Beyond-MMEnv-Scaling",
+      "title": "GitHub - GaryStack/Beyond-MMEnv-Scaling: Designing effective multimodal environment distributions beyond simply environment scaling. · GitHub",
+      "checked_at": "2026-10-07T18:15:17.778008+00:00",
+      "status": 200,
+      "final_url": "https://github.com/GaryStack/Beyond-MMEnv-Scaling",
+      "referenced_in_catalog": true,
+      "text_sha256": "5f5e278be7d785b1921ca0a261ca765cff2ca12d668dcef46a1da0bb270396d2"
+    },
+    {
+      "url": "https://github.com/Gen-Verse/GenEnv",
+      "title": "GitHub - Gen-Verse/GenEnv: [NeurIPS 2026] GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators · GitHub",
+      "checked_at": "2026-10-07T18:11:51.315186+00:00",
+      "status": 200,
+      "final_url": "https://github.com/Gen-Verse/GenEnv",
+      "referenced_in_catalog": true,
+      "text_sha256": "7d1574484bc5b36ab3fbb00c73de25f15adc5f7ea1d37ee320626afc979fb982"
+    },
+    {
+      "url": "https://github.com/LARK-AI-Lab/EnvFactory",
+      "title": "GitHub - LARK-AI-Lab/EnvFactory: The official paper for EnvFactory: Scaling Tool-Use Agents via Executable Environments Synthesis and Robust RL. · GitHub",
+      "checked_at": "2026-10-07T18:11:00.687260+00:00",
+      "status": 200,
+      "final_url": "https://github.com/LARK-AI-Lab/EnvFactory",
+      "referenced_in_catalog": true,
+      "text_sha256": "b7c9e62ec1d504d0e2205a2624bd7d7f816e7a06dc3bce3b88dc6907712db923"
+    },
+    {
+      "url": "https://github.com/LiberCoders/CLI-Gym",
+      "title": "GitHub - LiberCoders/CLI-Gym: Official Implementation of \"CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion\" · GitHub",
+      "checked_at": "2026-10-08T02:25:43.268819+00:00",
+      "status": 200,
+      "final_url": "https://github.com/LiberCoders/CLI-Gym",
+      "referenced_in_catalog": true,
+      "text_sha256": "88cd650f88e05ae062e673d940e334391281a562c79f22ced3779673e0e4fc37"
+    },
+    {
+      "url": "https://github.com/MajoRoth/hack-verifiable-environments",
+      "title": "GitHub - MajoRoth/hack-verifiable-environments: A GitHub page for hack-verifiable-environments paper · GitHub",
+      "checked_at": "2026-10-07T18:11:00.005854+00:00",
+      "status": 200,
+      "final_url": "https://github.com/MajoRoth/hack-verifiable-environments",
+      "referenced_in_catalog": true,
+      "text_sha256": "da4cd7e8c61ca90cc816564f3ce7766d6f607e94486495208bfeee6afefdb109"
+    },
+    {
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "title": "GitHub - MoonshotAI/Kimi-K3: Open Frontier Intelligence · GitHub",
+      "checked_at": "2026-10-08T02:48:08.198058+00:00",
+      "status": 200,
+      "final_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "referenced_in_catalog": true,
+      "text_sha256": "6610d0a730ae6d319aa65bfcdfb2555437bb648d20e702addc2b16091ce7b33a"
+    },
+    {
+      "url": "https://github.com/MrToser/skill-following",
+      "title": null,
+      "checked_at": "2026-10-08T02:15:04.445617+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "title": "GitHub - NVIDIA-NeMo/Gym: Evaluate and improve models and agents using environments · GitHub",
+      "checked_at": "2026-10-07T18:07:46.390600+00:00",
+      "status": 200,
+      "final_url": "https://github.com/NVIDIA-NeMo/Gym",
+      "referenced_in_catalog": true,
+      "text_sha256": "78d075949ca6bf94cfc7b3dd1381809465796fb84283e509a106f116a0587945"
+    },
+    {
+      "url": "https://github.com/NVlabs/Skill2Env",
+      "title": "GitHub - NVlabs/Skill2Env: Reinforcing Agents with Collective Skills · GitHub",
+      "checked_at": "2026-10-08T02:50:03.316680+00:00",
+      "status": 200,
+      "final_url": "https://github.com/NVlabs/Skill2Env",
+      "referenced_in_catalog": false,
+      "text_sha256": "818bfd11e2938211ed5abd6b4180fef1c20b02b3c8349d5c0e789ee02c30ca2d"
+    },
+    {
+      "url": "https://github.com/OS-Copilot/OS-Genesis",
+      "title": "GitHub - OS-Copilot/OS-Genesis: [ACL 2025] Code and data for OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis · GitHub",
+      "checked_at": "2026-10-08T02:15:04.445506+00:00",
+      "status": 200,
+      "final_url": "https://github.com/OS-Copilot/OS-Genesis",
+      "referenced_in_catalog": true,
+      "text_sha256": "d186b82cb26f7b877b39075f9a0be08dad26eb007f548eb0a9346fc431c25e01"
+    },
+    {
+      "url": "https://github.com/PrimeIntellect-ai/verifiers",
+      "title": "GitHub - PrimeIntellect-ai/verifiers: Our library for RL environments + evals · GitHub",
+      "checked_at": "2026-10-07T18:07:46.390728+00:00",
+      "status": 200,
+      "final_url": "https://github.com/PrimeIntellect-ai/verifiers",
+      "referenced_in_catalog": true,
+      "text_sha256": "f5c9fd902dcf4259b3997b1974f71483dcd3b7e8e28c3235171f8eba6d689cbd"
+    },
+    {
+      "url": "https://github.com/QwenLM/WebWorld",
+      "title": "GitHub - QwenLM/WebWorld: WebWorld is a large-scale web world model that helps train web agents in a simulated browser, avoiding the latency and safety issues of the real web. · GitHub",
+      "checked_at": "2026-10-07T18:15:19.278985+00:00",
+      "status": 200,
+      "final_url": "https://github.com/QwenLM/WebWorld",
+      "referenced_in_catalog": true,
+      "text_sha256": "a42aee59d60f0bde622776005b67ee706489c2aa89f17f5c621ff078077bb991"
+    },
+    {
+      "url": "https://github.com/R2E-Gym/R2E-Gym",
+      "title": "GitHub - R2E-Gym/R2E-Gym: [COLM 2025] Official repository for R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents · GitHub",
+      "checked_at": "2026-10-07T18:10:29.793135+00:00",
+      "status": 200,
+      "final_url": "https://github.com/R2E-Gym/R2E-Gym",
+      "referenced_in_catalog": true,
+      "text_sha256": "e229603c7157922d03b275d7a149eea6b0e5f7900be40cfb7278fb105e3a193d"
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/Agent-World",
+      "title": "GitHub - RUC-NLPIR/Agent-World: The official code of Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence · GitHub",
+      "checked_at": "2026-10-07T18:10:27.939327+00:00",
+      "status": 200,
+      "final_url": "https://github.com/RUC-NLPIR/Agent-World",
+      "referenced_in_catalog": true,
+      "text_sha256": "f8c8dea491d0f1d217af390a22c3d37bf24bb0628996f9c762c7b2a30b884c5c"
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "title": "GitHub - RUC-NLPIR/EnvScaler: The official implementation of  \"EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis\". · GitHub",
+      "checked_at": "2026-10-07T18:10:27.939187+00:00",
+      "status": 200,
+      "final_url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "referenced_in_catalog": true,
+      "text_sha256": "7307673509c514613e3939bd625a4245e7b97d56ee031c546c53e91c120d8fc4"
+    },
+    {
+      "url": "https://github.com/SWE-Gym/SWE-Gym",
+      "title": "GitHub - SWE-Gym/SWE-Gym: Code for Paper: Training Software Engineering Agents and Verifiers with SWE-Gym [ICML 2025] · GitHub",
+      "checked_at": "2026-10-07T18:10:29.735312+00:00",
+      "status": 200,
+      "final_url": "https://github.com/SWE-Gym/SWE-Gym",
+      "referenced_in_catalog": true,
+      "text_sha256": "f0906d7b50806ecc698152dbcae0288ba83dcf792d5a94a50fe0dbbcc38ec411"
+    },
+    {
+      "url": "https://github.com/SWE-bench/SWE-smith",
+      "title": "GitHub - SWE-bench/SWE-smith: [NeurIPS 2025 D&B Spotlight] Scaling Data for SWE-agents · GitHub",
+      "checked_at": "2026-10-07T18:10:29.692282+00:00",
+      "status": 200,
+      "final_url": "https://github.com/SWE-bench/SWE-smith",
+      "referenced_in_catalog": true,
+      "text_sha256": "f1d1312917cc8a78a8482422bc10a8466322a609ae4823553a017c41e2d6bfc0"
+    },
+    {
+      "url": "https://github.com/SWE-rebench/SWE-rebench-V2",
+      "title": "GitHub - SWE-rebench/SWE-rebench-V2: Tools and prompt templates used to build and evaluate SWE-rebench-v2 tasks for the paper. · GitHub",
+      "checked_at": "2026-10-07T18:11:51.315261+00:00",
+      "status": 200,
+      "final_url": "https://github.com/SWE-rebench/SWE-rebench-V2",
+      "referenced_in_catalog": true,
+      "text_sha256": "f94d5bab452ea9f68971ad2cb159c2d11b0b23df458debaaf7150e3b950b281e"
+    },
+    {
+      "url": "https://github.com/ServiceNow/BrowserGym",
+      "title": "GitHub - ServiceNow/BrowserGym: 🌎💪 BrowserGym, a Gym environment for web task automation · GitHub",
+      "checked_at": "2026-10-07T18:10:56.426941+00:00",
+      "status": 200,
+      "final_url": "https://github.com/ServiceNow/BrowserGym",
+      "referenced_in_catalog": true,
+      "text_sha256": "b37e88b53ed7e1d18db3e3a81d72f23feb18055782add08065aa1ddd439fb43e"
+    },
+    {
+      "url": "https://github.com/ServiceNow/WorkArena",
+      "title": "GitHub - ServiceNow/WorkArena: WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks? · GitHub",
+      "checked_at": "2026-10-07T18:10:56.426635+00:00",
+      "status": 200,
+      "final_url": "https://github.com/ServiceNow/WorkArena",
+      "referenced_in_catalog": true,
+      "text_sha256": "2d5c3ebf7164e533bd757abb94f7fb71f6268a704f745a9b4c08e28c9e61f845"
+    },
+    {
+      "url": "https://github.com/Snowflake-Labs/agent-world-model",
+      "title": "GitHub - Snowflake-Labs/agent-world-model: Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning · GitHub",
+      "checked_at": "2026-10-07T18:10:27.938684+00:00",
+      "status": 200,
+      "final_url": "https://github.com/Snowflake-Labs/agent-world-model",
+      "referenced_in_catalog": true,
+      "text_sha256": "772718c469d2edb39c160d24b3b3e0bf9fb0ec49024036905fd2c8c2b1d775ce"
+    },
+    {
+      "url": "https://github.com/StigLidu/CodeGym",
+      "title": "GitHub - StigLidu/CodeGym: [ICLR2026] The official repository for the CodeGym project: \"Generalizable End-to-End Tool-Use RL with Synthetic CodeGym\" · GitHub",
+      "checked_at": "2026-10-07T18:10:31.298725+00:00",
+      "status": 200,
+      "final_url": "https://github.com/StigLidu/CodeGym",
+      "referenced_in_catalog": true,
+      "text_sha256": "db2d42060294922909125afef76a95fdf94279af50cb7659159c383fc695a6ea"
+    },
+    {
+      "url": "https://github.com/TextArena/TextArena",
+      "title": "GitHub - TextArena/TextArena: A Collection of Competitive Text-Based Games for Language Model Evaluation and Reinforcement Learning · GitHub",
+      "checked_at": "2026-10-07T18:10:58.269061+00:00",
+      "status": 200,
+      "final_url": "https://github.com/TextArena/TextArena",
+      "referenced_in_catalog": true,
+      "text_sha256": "bdf94760b36601e5674ae54bea994bc4f4444a4d3ac079338f564ceb86ea76fb"
+    },
+    {
+      "url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "title": "GitHub - TheAgentCompany/TheAgentCompany: An agent benchmark with tasks in a simulated software company. · GitHub",
+      "checked_at": "2026-10-07T18:10:59.944291+00:00",
+      "status": 200,
+      "final_url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "referenced_in_catalog": true,
+      "text_sha256": "4e6edfa964ee52587e12f09fab3f6ad23b4fb7b6e94129eab99bd92079c5de11"
+    },
+    {
+      "url": "https://github.com/Within-yao/EnvACE",
+      "title": "GitHub - Within-yao/EnvACE · GitHub",
+      "checked_at": "2026-10-07T18:10:32.000374+00:00",
+      "status": 200,
+      "final_url": "https://github.com/Within-yao/EnvACE",
+      "referenced_in_catalog": true,
+      "text_sha256": "e8583780044504b7b3b3fe35fb48f06100c687c7629f0a236acc5038799859ed"
+    },
+    {
+      "url": "https://github.com/WooooDyy/AgentGym",
+      "title": "GitHub - WooooDyy/AgentGym: Code and implementations for the ACL 2025 paper \"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments\" by Zhiheng Xi et al. · GitHub",
+      "checked_at": "2026-10-07T18:10:33.718413+00:00",
+      "status": 200,
+      "final_url": "https://github.com/WooooDyy/AgentGym",
+      "referenced_in_catalog": true,
+      "text_sha256": "c3f8634072b3090b5d68d7ff17c7fd1dbc7c1d3673c69a862f72718631a15c92"
+    },
+    {
+      "url": "https://github.com/WooooDyy/AgentGym-RL",
+      "title": "GitHub - WooooDyy/AgentGym-RL: Code and implementations for the paper \"AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making through Multi-Turn Reinforcement Learning\" by Zhiheng Xi et al. · GitHub",
+      "checked_at": "2026-10-07T18:10:33.919412+00:00",
+      "status": 200,
+      "final_url": "https://github.com/WooooDyy/AgentGym-RL",
+      "referenced_in_catalog": true,
+      "text_sha256": "ddd168463f91292eb56f44686221ad07baeae08f3c13fbc4aca9b2b743199082"
+    },
+    {
+      "url": "https://github.com/Wusiwei0410/TerminalTraj",
+      "title": null,
+      "checked_at": "2026-10-08T02:15:04.444968+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/mimoagent",
+      "title": "GitHub - XiaomiMiMo/mimoagent: The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified! · GitHub",
+      "checked_at": "2026-10-08T01:54:10.034836+00:00",
+      "status": 200,
+      "final_url": "https://github.com/XiaomiMiMo/mimoagent",
+      "referenced_in_catalog": true,
+      "text_sha256": "0a1043eea711788a93918eee9c0a3ce702e445a7daf4b974dbaab00215b8d3ce"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/verl",
+      "title": "GitHub - XiaomiMiMo/verl: verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework · GitHub",
+      "checked_at": "2026-10-08T01:52:25.079740+00:00",
+      "status": 200,
+      "final_url": "https://github.com/XiaomiMiMo/verl",
+      "referenced_in_catalog": true,
+      "text_sha256": "7068f8c5f431d1b2c1b72665fbcf35fb748458e455fdfeeae8ef04e0bca5c4b4"
+    },
+    {
+      "url": "https://github.com/Zhiyuan-Zeng/RLVE",
+      "title": "GitHub - Zhiyuan-Zeng/RLVE: [ICML 2026] RLVE: Scaling Up Reinforcement Learning for Language Models with Adaptive Verifiable Environments · GitHub",
+      "checked_at": "2026-10-07T18:11:01.365937+00:00",
+      "status": 200,
+      "final_url": "https://github.com/Zhiyuan-Zeng/RLVE",
+      "referenced_in_catalog": true,
+      "text_sha256": "115e81222e59328113ce9dcf7bcd42c0e9b5c56de2e7bb5b9ae7b8231dabd721"
+    },
+    {
+      "url": "https://github.com/Ziqiao-git/ToolGym",
+      "title": "GitHub - Ziqiao-git/C-World · GitHub",
+      "checked_at": "2026-10-07T18:25:35.608365+00:00",
+      "status": 200,
+      "final_url": "https://github.com/Ziqiao-git/C-World",
+      "referenced_in_catalog": true,
+      "text_sha256": "ae4c9e5ff5e54a61b51e7498b5546a328021a185a3c3852bcb613ff6053e5795"
+    },
+    {
+      "url": "https://github.com/alfworld/alfworld",
+      "title": "GitHub - alfworld/alfworld: ALFWorld: Aligning Text and Embodied Environments for Interactive Learning · GitHub",
+      "checked_at": "2026-10-07T18:10:58.368111+00:00",
+      "status": 200,
+      "final_url": "https://github.com/alfworld/alfworld",
+      "referenced_in_catalog": true,
+      "text_sha256": "b016920ab4f0b2e28d74a2d3f0c8cd8c5ad118df5f597561e5a1a35727039f2a"
+    },
+    {
+      "url": "https://github.com/allenai/ScienceWorld",
+      "title": "GitHub - allenai/ScienceWorld: ScienceWorld is a text-based virtual environment centered around accomplishing tasks from the standardized elementary science curriculum. · GitHub",
+      "checked_at": "2026-10-07T18:10:59.773271+00:00",
+      "status": 200,
+      "final_url": "https://github.com/allenai/ScienceWorld",
+      "referenced_in_catalog": true,
+      "text_sha256": "3ef1acc39a1057103cae2af39aa34352ae3c1779a6f3d426bde62a8459e4bb07"
+    },
+    {
+      "url": "https://github.com/apple/ToolSandbox",
+      "title": "GitHub - apple-aiml-research/ToolSandbox · GitHub",
+      "checked_at": "2026-10-07T18:10:58.131270+00:00",
+      "status": 200,
+      "final_url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "referenced_in_catalog": true,
+      "text_sha256": "2f58bb6623af487935a0ebde94ef4265e90a08a11ccb4674323bf7a254f7e9d3"
+    },
+    {
+      "url": "https://github.com/apple/ml-mmtoolsandbox",
+      "title": "GitHub - apple-aiml-research/ml-mmtoolsandbox: MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents · GitHub",
+      "checked_at": "2026-10-07T18:15:17.778839+00:00",
+      "status": 200,
+      "final_url": "https://github.com/apple-aiml-research/ml-mmtoolsandbox",
+      "referenced_in_catalog": true,
+      "text_sha256": "61a6c0de6f8a16f652596aad1956cf18edbcbc510ea2ace610e7941ac3bdd9f3"
+    },
+    {
+      "url": "https://github.com/axon-rl/gem",
+      "title": "GitHub - axon-rl/gem: A Gym for Agentic LLMs · GitHub",
+      "checked_at": "2026-10-07T18:07:46.521048+00:00",
+      "status": 200,
+      "final_url": "https://github.com/axon-rl/gem",
+      "referenced_in_catalog": true,
+      "text_sha256": "8bf15fe48f16fcbe0fb15401f7e57ee18bdfbf176b2ffc6333e4af179c26426c"
+    },
+    {
+      "url": "https://github.com/browser-use/benchmark",
+      "title": "GitHub - browser-use/benchmark · GitHub",
+      "checked_at": "2026-10-08T02:15:17.511187+00:00",
+      "status": 200,
+      "final_url": "https://github.com/browser-use/benchmark",
+      "referenced_in_catalog": true,
+      "text_sha256": "04c8040b32841684f8a74d0a64141d7ff8b7f2757234a13a62e1c1f0b77ee054"
+    },
+    {
+      "url": "https://github.com/cmu-l3/gym-anything",
+      "title": "GitHub - cmu-l3/gym-anything: Gym-Anything: Turn any Software into an Agent Environment · GitHub",
+      "checked_at": "2026-10-07T18:10:32.728874+00:00",
+      "status": 200,
+      "final_url": "https://github.com/cmu-l3/gym-anything",
+      "referenced_in_catalog": true,
+      "text_sha256": "9a01da7353cd8cb80e49ff189f1be32d83cc0b0e5fb2e96547d52db7e59ce355"
+    },
+    {
+      "url": "https://github.com/coli-saar/randomworld",
+      "title": "GitHub - coli-saar/randomworld · GitHub",
+      "checked_at": "2026-10-08T02:17:25.197122+00:00",
+      "status": 200,
+      "final_url": "https://github.com/coli-saar/randomworld",
+      "referenced_in_catalog": true,
+      "text_sha256": "4f960b0327b979a262797eb8e0868b82199193c97b5163d29621fc118876fb81"
+    },
+    {
+      "url": "https://github.com/data-for-agents/insta",
+      "title": "GitHub - data-for-agents/insta: Official Repo for InSTA: Towards Internet-Scale Training For Agents · GitHub",
+      "checked_at": "2026-10-08T02:15:11.006243+00:00",
+      "status": 200,
+      "final_url": "https://github.com/data-for-agents/insta",
+      "referenced_in_catalog": true,
+      "text_sha256": "83403e5a9f9b2397e7d4e48a493d9d5d66182f8f38ea8d80f247e14c6ca362e8"
+    },
+    {
+      "url": "https://github.com/deepseek-ai/DeepSeek-V4",
+      "title": null,
+      "checked_at": "2026-10-08T02:50:10.139600+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://github.com/facebookresearch/ARE",
+      "title": null,
+      "checked_at": "2026-10-07T18:10:33.148192+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "title": "GitHub - facebookresearch/meta-agents-research-environments: Meta Agents Research Environments is a comprehensive platform designed to evaluate AI agents in dynamic, realistic scenarios. Unlike static benchmarks, this platform introduces evolving environments where agents must adapt their strategies as new information becomes available, mirroring real-world challenges. · GitHub",
+      "checked_at": "2026-10-07T18:11:51.314563+00:00",
+      "status": 200,
+      "final_url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "referenced_in_catalog": true,
+      "text_sha256": "b60850a611b6f7aa07534d69590ea9073db4ac79053b5fd661112db97c3d898c"
+    },
+    {
+      "url": "https://github.com/google-research/android_world",
+      "title": "GitHub - google-research/android_world: AndroidWorld is an environment and benchmark for autonomous agents · GitHub",
+      "checked_at": "2026-10-07T18:10:56.427198+00:00",
+      "status": 200,
+      "final_url": "https://github.com/google-research/android_world",
+      "referenced_in_catalog": true,
+      "text_sha256": "8564d8be42af90e168ee4d3921bfbb3a309a619dc36bc24472e8ab2dcce6c8c6"
+    },
+    {
+      "url": "https://github.com/google-research/envharness",
+      "title": "GitHub - google-research/envharness · GitHub",
+      "checked_at": "2026-10-07T18:10:27.939450+00:00",
+      "status": 200,
+      "final_url": "https://github.com/google-research/envharness",
+      "referenced_in_catalog": true,
+      "text_sha256": "1cfec9c556f429d9dc3c477d81fa0e8eaf8673d01d1aa08fc14a856adb204144"
+    },
+    {
+      "url": "https://github.com/harbor-framework/harbor",
+      "title": "GitHub - harbor-framework/harbor: Framework for evaluating and improving agents · GitHub",
+      "checked_at": "2026-10-07T18:07:47.180364+00:00",
+      "status": 200,
+      "final_url": "https://github.com/harbor-framework/harbor",
+      "referenced_in_catalog": true,
+      "text_sha256": "66b1ea6c03f20d65ce47f3fe77a003bfd01b30f1862e4c6a8f77eadf57773a2a"
+    },
+    {
+      "url": "https://github.com/harbor-framework/terminal-bench",
+      "title": "GitHub - harbor-framework/terminal-bench: Measuring and evolving with the frontier of agent work · GitHub",
+      "checked_at": "2026-10-07T18:15:17.778718+00:00",
+      "status": 200,
+      "final_url": "https://github.com/harbor-framework/terminal-bench",
+      "referenced_in_catalog": true,
+      "text_sha256": "6bd007fae3b61351b9a55d3df2a4410123d8e0d86d7fa9b74cb920856a5f0d68"
+    },
+    {
+      "url": "https://github.com/huggingface/OpenEnv",
+      "title": "GitHub - huggingface/OpenEnv: An interface library for RL post training with environments. · GitHub",
+      "checked_at": "2026-10-07T18:07:46.333191+00:00",
+      "status": 200,
+      "final_url": "https://github.com/huggingface/OpenEnv",
+      "referenced_in_catalog": true,
+      "text_sha256": "aa4f11dcce553389ed6f975b49736e2ddcdd02b1b510366d4abc6b2f380658f7"
+    },
+    {
+      "url": "https://github.com/icip-cas/LiteCoder",
+      "title": "GitHub - icip-cas/LiteCoder: Advancing Small and Medium-sized Code Agents. · GitHub",
+      "checked_at": "2026-10-08T02:17:25.197671+00:00",
+      "status": 200,
+      "final_url": "https://github.com/icip-cas/LiteCoder",
+      "referenced_in_catalog": true,
+      "text_sha256": "aac01f1c82a17c88c1fc6fa7be09a98561209c08c1aaeceacddfdd7fe1b93271"
+    },
+    {
+      "url": "https://github.com/inclusionAI/AWorld-RL",
+      "title": "GitHub - inclusionAI/AWorld-RL: Agentic Learning Powered by AWorld · GitHub",
+      "checked_at": "2026-10-07T18:15:17.778641+00:00",
+      "status": 200,
+      "final_url": "https://github.com/inclusionAI/AWorld-RL",
+      "referenced_in_catalog": true,
+      "text_sha256": "3f5dcec2b64d7a0512074a85bfddba7cc9ad4e60c5a265e852df0f0f6cdae4bd"
+    },
+    {
+      "url": "https://github.com/kanishkg/endless-terminals",
+      "title": "GitHub - kanishkg/endless-terminals · GitHub",
+      "checked_at": "2026-10-08T02:25:43.269376+00:00",
+      "status": 200,
+      "final_url": "https://github.com/kanishkg/endless-terminals",
+      "referenced_in_catalog": true,
+      "text_sha256": "842d6a9d517667985ac13d66978e228b187bc69c192df1c9f688996b72144729"
+    },
+    {
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "title": "GitHub - kvcache-ai/AgentENV: AgentENV (AENV) is a distributed platform for running agent environments at scale. · GitHub",
+      "checked_at": "2026-10-08T02:51:24.307829+00:00",
+      "status": 200,
+      "final_url": "https://github.com/kvcache-ai/AgentENV",
+      "referenced_in_catalog": true,
+      "text_sha256": "e370f3c28ce4ffeeda7ac61f9ffe617dc8f5a3a0dde7610e31c16b70a8a6ac71"
+    },
+    {
+      "url": "https://github.com/namkoong-lab/SynthTools",
+      "title": "GitHub - namkoong-lab/SynthTools: Public repo for SynthTools: A framework for scaling synthetic tools for agent development · GitHub",
+      "checked_at": "2026-10-07T18:10:31.298956+00:00",
+      "status": 200,
+      "final_url": "https://github.com/namkoong-lab/SynthTools",
+      "referenced_in_catalog": true,
+      "text_sha256": "817ecfa97c17497a2ed4f7734ecd92d8890136f2aaab5f4f4785fb83065f6376"
+    },
+    {
+      "url": "https://github.com/nebius/SWE-rebench",
+      "title": null,
+      "checked_at": "2026-10-07T18:10:31.103722+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://github.com/neulab/SWE-Playground",
+      "title": "GitHub - neulab/SWE-Playground: Official Repository for \"Training Versatile Coding Agents in Synthetic Environments\" · GitHub",
+      "checked_at": "2026-10-08T02:22:30.644788+00:00",
+      "status": 200,
+      "final_url": "https://github.com/neulab/SWE-Playground",
+      "referenced_in_catalog": true,
+      "text_sha256": "2d933edbdda10a7130993d64fbc799fac7ba50b43bc7cc8660f406f5d9bddabb"
+    },
+    {
+      "url": "https://github.com/open-thought/reasoning-gym",
+      "title": "GitHub - open-thought/reasoning-gym: [NeurIPS 2025 Spotlight] Reasoning Environments for Reinforcement Learning with Verifiable Rewards · GitHub",
+      "checked_at": "2026-10-07T18:10:58.203337+00:00",
+      "status": 200,
+      "final_url": "https://github.com/open-thought/reasoning-gym",
+      "referenced_in_catalog": true,
+      "text_sha256": "be2d1bf43828e28116b372514959d474d0b9f4d91301c8b6cb55ef020ddc8e0c"
+    },
+    {
+      "url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "title": "GitHub - open-thoughts/OpenThoughts-Agent: Data recipes and robust infrastructure for training AI agents · GitHub",
+      "checked_at": "2026-10-08T02:15:04.445588+00:00",
+      "status": 200,
+      "final_url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "referenced_in_catalog": true,
+      "text_sha256": "de15508bba64d1022dace566cb64c4b0432adbdb09b13db697828c87ea53116c"
+    },
+    {
+      "url": "https://github.com/princeton-nlp/WebShop",
+      "title": "GitHub - princeton-nlp/WebShop: [NeurIPS 2022] 🛒WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents · GitHub",
+      "checked_at": "2026-10-07T18:10:59.850949+00:00",
+      "status": 200,
+      "final_url": "https://github.com/princeton-nlp/WebShop",
+      "referenced_in_catalog": true,
+      "text_sha256": "8243cdbbe5d62b265e3b491dc6c8cb9eacee21bcc98660f9ce9ab0acc253117c"
+    },
+    {
+      "url": "https://github.com/scaleapi/agentenv-framework",
+      "title": "GitHub - scaleapi/agentenv-framework: Creating realistic RL environments requires collaboration between researchers, engineers, and domain experts across many dimensions: artifacts, environments tools, dynamism of the environment, reproducibility, and more. There is no open source framework for building these environments effectively. Until now. · GitHub",
+      "checked_at": "2026-10-07T18:07:45.245270+00:00",
+      "status": 200,
+      "final_url": "https://github.com/scaleapi/agentenv-framework",
+      "referenced_in_catalog": true,
+      "text_sha256": "984e391d9c1f7aeb4626bdb6639d37894324a2dc3cff5e4f6056d97080130272"
+    },
+    {
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "title": "GitHub - sierra-research/tau2-bench: τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains · GitHub",
+      "checked_at": "2026-10-07T18:10:58.131200+00:00",
+      "status": 200,
+      "final_url": "https://github.com/sierra-research/tau2-bench",
+      "referenced_in_catalog": true,
+      "text_sha256": "e5706a8d32ada9d2a597b161e2e4dfc4805aaae04a50c4b2be973fa83a9660d1"
+    },
+    {
+      "url": "https://github.com/spade-rl/spade",
+      "title": "GitHub - spade-rl/spade: SPADE: Self-Play in Adaptive Synthetic Executable Environments · GitHub",
+      "checked_at": "2026-10-07T18:10:27.939489+00:00",
+      "status": 200,
+      "final_url": "https://github.com/spade-rl/spade",
+      "referenced_in_catalog": true,
+      "text_sha256": "e33e280625d88c171ea8d71d3a4e261d23c8505c6b62ab3082ec7118d744f1e7"
+    },
+    {
+      "url": "https://github.com/stonybrooknlp/appworld",
+      "title": "GitHub - StonyBrookNLP/appworld: 🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper. · GitHub",
+      "checked_at": "2026-10-07T18:10:56.427229+00:00",
+      "status": 200,
+      "final_url": "https://github.com/stonybrooknlp/appworld",
+      "referenced_in_catalog": true,
+      "text_sha256": "e9326604ced677783acd7f9d9b32e064e1042ee92d144edd5b0bb3c8a08ce7aa"
+    },
+    {
+      "url": "https://github.com/sunblaze-ucb/AgentSynth",
+      "title": "GitHub - sunblaze-ucb/AgentSynth: [ICLR 2026] AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents · GitHub",
+      "checked_at": "2026-10-07T18:10:31.333041+00:00",
+      "status": 200,
+      "final_url": "https://github.com/sunblaze-ucb/AgentSynth",
+      "referenced_in_catalog": true,
+      "text_sha256": "fd5dd633b9b2781ef791d2b7e637030781c5b82471714267d370235c8b2508ac"
+    },
+    {
+      "url": "https://github.com/web-arena-x/webarena",
+      "title": "GitHub - web-arena-x/webarena: Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\" · GitHub",
+      "checked_at": "2026-10-07T18:15:17.778796+00:00",
+      "status": 200,
+      "final_url": "https://github.com/web-arena-x/webarena",
+      "referenced_in_catalog": true,
+      "text_sha256": "e47d5cc9e687bb3954ae6f7b3ef2700ecf7014d4244ec3fa7172d76b78074c81"
+    },
+    {
+      "url": "https://github.com/xirui-li/ClawEnvKit",
+      "title": "GitHub - xirui-li/ClawEnvKit: Open-source Environment toolkit of claw-like agents, support task/harness generation and evaluation · GitHub",
+      "checked_at": "2026-10-08T02:17:25.197626+00:00",
+      "status": 200,
+      "final_url": "https://github.com/xirui-li/ClawEnvKit",
+      "referenced_in_catalog": true,
+      "text_sha256": "f478747238e554edf346e5bc336b2fc345430680ee8070e38fbbcc87df36ced4"
+    },
+    {
+      "url": "https://github.com/xlang-ai/AgentTrek",
+      "title": null,
+      "checked_at": "2026-10-08T02:15:04.445552+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "title": "GitHub - xlang-ai/OSWorld: [NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments · GitHub",
+      "checked_at": "2026-10-07T18:10:56.427091+00:00",
+      "status": 200,
+      "final_url": "https://github.com/xlang-ai/OSWorld",
+      "referenced_in_catalog": true,
+      "text_sha256": "b866df475a606f0b1e124c5cd64980da22332207af07aeb9e937cabab4823106"
+    },
+    {
+      "url": "https://github.com/yuandaxia2001/WebForge",
+      "title": "GitHub - yuandaxia2001/WebForge · GitHub",
+      "checked_at": "2026-10-08T02:15:08.496851+00:00",
+      "status": 200,
+      "final_url": "https://github.com/yuandaxia2001/WebForge",
+      "referenced_in_catalog": true,
+      "text_sha256": "dec5e9231e397dc3de59ec46f6a863af68c6a1bc3754fae98327c6f9c0a59d71"
+    },
+    {
+      "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+      "checked_at": "2026-10-08T03:17:24.847105+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+      "referenced_in_catalog": true,
+      "text_sha256": "1a8f40f8605a4d22e501cd45dffdd9fc569885fe2397d76c1fe259313d9fc3c0"
+    },
+    {
+      "url": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
+      "title": "Announcing LiteCoder-Terminal: Lightweight Terminal Agents with <1k Synthesized Trajectories",
+      "checked_at": "2026-10-08T02:15:26.605596+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
+      "referenced_in_catalog": true,
+      "text_sha256": "a865422f464cae2e087340d4d31737f1a9ffda81ce727e6926f1715cf5676618"
+    },
+    {
+      "url": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
+      "title": "Scaling OpenEnv: From Free Usage to Thousands of Concurrent Environments",
+      "checked_at": "2026-10-07T18:10:57.550846+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
+      "referenced_in_catalog": true,
+      "text_sha256": "59d99ad24a5aa32dbe720de449cbf6fc715704470c28f0b8608fa7c8e620adc5"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv",
+      "title": "Building the Open Agent Ecosystem Together: Introducing OpenEnv",
+      "checked_at": "2026-10-07T18:07:43.979701+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/openenv",
+      "referenced_in_catalog": true,
+      "text_sha256": "83669771df3c37f2a3622b8291c663d50e589cdb0eb3be5284425f4600ed1fd7"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "checked_at": "2026-10-07T18:07:43.979646+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "referenced_in_catalog": true,
+      "text_sha256": "e53001d18967db3b4ccb58fb12556d4265de48929baeb40f98264d4f69d3e811"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv-turing",
+      "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+      "checked_at": "2026-10-07T18:09:42.366200+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/openenv-turing",
+      "referenced_in_catalog": true,
+      "text_sha256": "2630f661e381454c2704751baea1b98a875e9944189ba124b809adaf903988b5"
+    },
+    {
+      "url": "https://huggingface.co/blog/rl-environments",
+      "title": "Welcome RL Environments to the hub",
+      "checked_at": "2026-10-07T18:07:43.979269+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/rl-environments",
+      "referenced_in_catalog": true,
+      "text_sha256": "f211b3d4c62ab151fd850bf37634146f48ad305b04effe28b1dd0db330677a77"
+    },
+    {
+      "url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+      "title": "Training a coding agent using the OpenCode harness in remote HF sandboxes with TRL and OpenEnv",
+      "checked_at": "2026-10-07T18:10:57.550959+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+      "referenced_in_catalog": true,
+      "text_sha256": "3393bf2420dbd34219fb9da3f190f165a7dcf038007c9791fb2736212c71f761"
+    },
+    {
+      "url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample",
+      "title": "Minbyul/AgentMercury-corpus-sample · Datasets at Hugging Face",
+      "checked_at": "2026-10-08T02:17:37.125361+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample",
+      "referenced_in_catalog": true,
+      "text_sha256": "c62574ce8ad9204cb6a8c40f4506ca030bf7ba91bf9fcf743a8d3477c273334d"
+    },
+    {
+      "url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample/raw/main/README.md",
+      "title": null,
+      "checked_at": "2026-10-08T02:30:27.890084+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "<urlopen error _ssl.c:1011: The handshake operation timed out>"
+    },
+    {
+      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "title": "XiaomiMiMo/MiMo-V2.6-RL-oss · Datasets at Hugging Face",
+      "checked_at": "2026-10-08T01:52:25.079461+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "referenced_in_catalog": true,
+      "text_sha256": "858b7ad93b025954e4cf74af94ae60918b98fbd07f01e287e3d6129e09679558"
+    },
+    {
+      "url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer/raw/main/README.md",
+      "title": "",
+      "checked_at": "2026-10-08T02:48:08.955493+00:00",
+      "status": 200,
+      "final_url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer/raw/main/README.md",
+      "referenced_in_catalog": true,
+      "text_sha256": "99fc76c1766bd28fbfa664a9e2780e1db3eba112dae2088b82621bf5c469fcd6"
+    },
+    {
+      "url": "https://labs.scale.com/blog",
+      "title": "Blog - Scale Labs | Scale Labs",
+      "checked_at": "2026-10-07T18:07:45.231951+00:00",
+      "status": 200,
+      "final_url": "https://labs.scale.com/blog",
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "https://labs.scale.com/blog/agentic-rubrics",
+      "title": "Agentic Rubrics: AI Code Verification | Scale Labs",
+      "checked_at": "2026-10-07T18:09:42.003566+00:00",
+      "status": 200,
+      "final_url": "https://labs.scale.com/blog/agentic-rubrics",
+      "referenced_in_catalog": true,
+      "text_sha256": "cf3eec37708fd9303744f2e893b7e1b359eb0050256cccd8dd6163d640fac743"
+    },
+    {
+      "url": "https://labs.scale.com/blog/introducing-agentenv",
+      "title": "Introducing AgentEnv: An Open-Source Framework for Building RL Environments | Scale Labs",
+      "checked_at": "2026-10-07T18:07:45.232380+00:00",
+      "status": 200,
+      "final_url": "https://labs.scale.com/blog/introducing-agentenv",
+      "referenced_in_catalog": true,
+      "text_sha256": "d85a0dfbfae50c7d6430e3d6f0c2ee04bffd709851bba89513edb25aa7c4c171"
+    },
+    {
+      "url": "https://labs.scale.com/blog/rubric-dropout",
+      "title": "RUBRIC DROPOUT: A SIMPLE WAY TO MITIGATE REWARD HACKING IN RUBRIC-AS-REWARD RL | Scale Labs",
+      "checked_at": "2026-10-07T18:09:41.220553+00:00",
+      "status": 200,
+      "final_url": "https://labs.scale.com/blog/rubric-dropout",
+      "referenced_in_catalog": true,
+      "text_sha256": "7c98cd8cbc18d1fad6b73e15e4c43f8288db63ade00e066d436f72a5c585946a"
+    },
+    {
+      "url": "https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops",
+      "title": "Enterprise Agent RL via Verifiable Feedback | Scale Labs",
+      "checked_at": "2026-10-07T18:09:42.366027+00:00",
+      "status": 200,
+      "final_url": "https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops",
+      "referenced_in_catalog": true,
+      "text_sha256": "521c30979890fe5c6108afbb6a20a365e76ea82a3733aa8b2b942d1215850d27"
+    },
+    {
+      "url": "https://labs.scale.com/blog/verifier-design-for-cua",
+      "title": "Who Grades the Graders? Rethinking Verifier Design for Computer Use Agents | Scale Labs",
+      "checked_at": "2026-10-07T18:11:51.315354+00:00",
+      "status": 200,
+      "final_url": "https://labs.scale.com/blog/verifier-design-for-cua",
+      "referenced_in_catalog": true,
+      "text_sha256": "38a4defd93c1bd731b669df3d45a75b32153d8986b9920c73ad6ea174e1f461c"
+    },
+    {
+      "url": "https://mimo.xiaomi.com/rl/",
+      "title": "mimo-v2.6 RL",
+      "checked_at": "2026-10-08T01:52:25.079783+00:00",
+      "status": 200,
+      "final_url": "https://mimo.xiaomi.com/rl/",
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "url": "https://neulab.github.io/SWE-Playground/",
+      "title": "SWE-Playground",
+      "checked_at": "2026-10-08T02:22:36.523796+00:00",
+      "status": 200,
+      "final_url": "https://neulab.github.io/SWE-Playground/",
+      "referenced_in_catalog": true,
+      "text_sha256": "c16ec026300c59215444cfa52ce7d5714d4d473bfb79af48378c501820ff6cdf"
+    },
+    {
+      "url": "https://openai.com/index/computer-using-agent/",
+      "title": null,
+      "checked_at": "2026-10-08T02:50:08.990037+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/equip-responses-api-computer-environment/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:01.179397+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:01.449501+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://openai.com/index/introducing-codex/",
+      "title": null,
+      "checked_at": "2026-10-08T02:50:08.920249+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/introducing-deep-research/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:01.179475+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/introducing-swe-bench-verified/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:01.178872+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/paperbench/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:01.179512+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "title": "Why we no longer evaluate SWE-bench Verified | OpenAI",
+      "checked_at": "2026-10-08T03:15:01.179446+00:00",
+      "status": 200,
+      "final_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "referenced_in_catalog": true,
+      "text_sha256": "13c264d99289205fcb865aeb24db9621f67ee8f7d0c419cf3ec5497070f1e52b"
+    },
+    {
+      "url": "https://openthoughts.ai",
+      "title": "OpenThoughts",
+      "checked_at": "2026-10-08T02:10:06.116271+00:00",
+      "status": 200,
+      "final_url": "https://www.openthoughts.ai/",
+      "referenced_in_catalog": false,
+      "text_sha256": "0c5e9f0275191249f4f9669ec8cb448c233dfa7859c2c066817bb4046ea5420a"
+    },
+    {
+      "url": "https://poolside.ai/blog/designing-a-world-class-code-execution-environment",
+      "title": "Designing a world-class code execution environment — Poolside",
+      "checked_at": "2026-10-08T03:17:24.847517+00:00",
+      "status": 200,
+      "final_url": "https://poolside.ai/blog/designing-a-world-class-code-execution-environment",
+      "referenced_in_catalog": true,
+      "text_sha256": "24f844f652ad5e666c0017a88c55e504b0e4da18fb681dc60055e6c17d47c391"
+    },
+    {
+      "url": "https://qiushisun.github.io/OS-Genesis-Home/",
+      "title": "OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis",
+      "checked_at": "2026-10-08T02:10:09.066439+00:00",
+      "status": 200,
+      "final_url": "https://qiushisun.github.io/OS-Genesis-Home/",
+      "referenced_in_catalog": false,
+      "text_sha256": "ae20111170e29161a99e7ac993ebaf4bd56c95dee1e079a06092c20cd33afdd6"
+    },
+    {
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/",
+      "title": "Qwen3-Coder: Agentic Coding in the World | Qwen",
+      "checked_at": "2026-10-08T02:50:07.329689+00:00",
+      "status": 200,
+      "final_url": "https://qwenlm.github.io/blog/qwen3-coder/",
+      "referenced_in_catalog": true,
+      "text_sha256": "7db7d0c7c4d2737ae8eefb5af06097d789275f690cf044b7fcb10240708fca2c"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AllSpark-Research/AgentEnv/main/Skill2Env/README.md",
+      "title": null,
+      "checked_at": "2026-10-08T02:52:09.870013+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "title": "Introducing Beam: Reflection’s 501B open-weight model — Reflection",
+      "checked_at": "2026-10-08T03:17:24.847564+00:00",
+      "status": 200,
+      "final_url": "https://reflection.ai/blog/introducing-beam",
+      "referenced_in_catalog": true,
+      "text_sha256": "328059f41681901f7f5c3d2a30bc222e750c34460b27833e3c0f5d3523f64647"
+    },
+    {
+      "url": "https://terminalworld.ai/",
+      "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks",
+      "checked_at": "2026-10-08T02:10:35.668857+00:00",
+      "status": 200,
+      "final_url": "https://terminalworld.ai/",
+      "referenced_in_catalog": false,
+      "text_sha256": "ecb81400d92aa35caf930db98d7ece9186e4a9a7a5542b60ab77989d673b03c2"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "title": "Demystifying evals for AI agents \\ Anthropic",
+      "checked_at": "2026-10-08T02:50:03.316592+00:00",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "referenced_in_catalog": true,
+      "text_sha256": "61922e4374cae8d8ba11d5998961df5db7871f7049e5cdfd57a3308bbf54147a"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "title": "Effective harnesses for long-running agents \\ Anthropic",
+      "checked_at": "2026-10-08T03:15:08.301665+00:00",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+      "referenced_in_catalog": true,
+      "text_sha256": "a81b50d3a0bfdd9972b76df76419a923c407fcbd1682e2aaa31752c220eca715"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:02.614338+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "title": "Quantifying infrastructure noise in agentic coding evals \\ Anthropic",
+      "checked_at": "2026-10-08T02:58:04.098265+00:00",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "referenced_in_catalog": true,
+      "text_sha256": "79f203ab7a0a44e5f7cfb9321c095cc48d59fc5f33fbcffaff44a6f5f49370c4"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/managed-agents",
+      "title": "Scaling Managed Agents: Decoupling the brain from the hands \\ Anthropic",
+      "checked_at": "2026-10-08T03:15:01.483119+00:00",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/engineering/managed-agents",
+      "referenced_in_catalog": true,
+      "text_sha256": "1ef17d13656cb6c7a4e4525024d658d752ffe1084a05a6ac68fa40be9bed0dd8"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/quantifying-infrastructure-noise-in-agentic-coding-evals",
+      "title": null,
+      "checked_at": "2026-10-08T02:50:03.316639+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+      "title": "Natural emergent misalignment from reward hacking \\ Anthropic",
+      "checked_at": "2026-10-08T03:15:07.656228+00:00",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+      "referenced_in_catalog": true,
+      "text_sha256": "521d939dd18248ade05efbbaddd4589182b89f1f49740852bc22cb4cac0324d9"
+    },
+    {
+      "url": "https://www.anthropic.com/research/petri-open-source-auditing",
+      "title": "Petri: An open-source AI auditing tool \\ Anthropic",
+      "checked_at": "2026-10-08T03:15:03.342002+00:00",
+      "status": 200,
+      "final_url": "https://www.anthropic.com/research/petri-open-source-auditing",
+      "referenced_in_catalog": true,
+      "text_sha256": "7bc256313cac49247b8373b7080b81988131b96f31c742ece06a994c42cb4d5d"
+    },
+    {
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "title": "Kimi K3 Tech Blog: Open Frontier Intelligence",
+      "checked_at": "2026-10-08T02:50:08.352029+00:00",
+      "status": 200,
+      "final_url": "https://www.kimi.com/en/blog/kimi-k3",
+      "referenced_in_catalog": true,
+      "text_sha256": "bb082d093d17d7f0d7fe1f5e07ae3fc62f61ea08a4bc6c96632240350991165b"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+      "title": null,
+      "checked_at": "2026-10-08T03:15:18.762307+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": true,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://www.openthoughts.ai/blog/agent",
+      "title": "Launching the OpenThoughts-Agent Project | OpenThoughts",
+      "checked_at": "2026-10-08T02:10:30.139204+00:00",
+      "status": 200,
+      "final_url": "https://www.openthoughts.ai/blog/agent",
+      "referenced_in_catalog": true,
+      "text_sha256": "a9b4f4a598c632486274106286be87d6efc0b49c796cfbee3913c18d1b71ffd4"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog",
+      "title": "Prime Intellect | Blog",
+      "checked_at": "2026-10-07T18:07:45.162567+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog",
+      "referenced_in_catalog": false,
+      "text_sha256": "f7620c6abb59f045b091cebae37758864d63f88cf61f9844dd9ae204fef8ab91"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/environments",
+      "title": "Environments Hub: A Community Hub To Scale RL To Open AGI",
+      "checked_at": "2026-10-07T18:07:45.141368+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/environments",
+      "referenced_in_catalog": true,
+      "text_sha256": "01c022a7fd95bcad1fc44abf55f2e346b9404c9444daa8ee2bd6e53c9fba47e1"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/general-agent",
+      "title": "General Agent: A Self-Evolving, Synthetic Agent Environment",
+      "checked_at": "2026-10-07T18:07:43.979787+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/general-agent",
+      "referenced_in_catalog": true,
+      "text_sha256": "de9d3c0d192e315b584c66801462097093a56f89c366d9ec911ef02b9b638094"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+      "title": "Multi-Agent Systems in PRIME-RL",
+      "checked_at": "2026-10-07T18:09:41.220407+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+      "referenced_in_catalog": true,
+      "text_sha256": "2e56bf555323e46396db3d45713c2baab2726569b5c3be0343fd90ee1bd1d9c0"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "title": "Systematic Reward Hacking and Prime Sprints",
+      "checked_at": "2026-10-07T18:10:57.550799+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "referenced_in_catalog": true,
+      "text_sha256": "2d7177bf606b091498bacf2027efed62e0d230a02baf37fb4d13568456f6af63"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/sandboxes",
+      "title": "Prime Sandboxes: MicroVMs for Agentic RL Training at Scale",
+      "checked_at": "2026-10-07T18:09:41.219968+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/sandboxes",
+      "referenced_in_catalog": true,
+      "text_sha256": "1919345ce50f9e44b030d55e55a8c8a52c4e2e2945e3d39dc21885fd26b77f64"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+      "title": "Scaling Agentic RL: 365,000+ Environments for SWE, Terminal, and Search",
+      "checked_at": "2026-10-07T18:09:41.220340+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+      "referenced_in_catalog": true,
+      "text_sha256": "9eb2f1b3257e60a457a087e6f87fde6f65345c371a9a9b0a891aa5e01d64fa16"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/systematic-reward-hacking",
+      "title": null,
+      "checked_at": "2026-10-07T18:09:41.220504+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/verifiers-v1",
+      "title": "verifiers v1: Decomposing Tasksets and Harnesses for Agentic RL & Evaluations",
+      "checked_at": "2026-10-07T18:07:43.979822+00:00",
+      "status": 200,
+      "final_url": "https://www.primeintellect.ai/blog/verifiers-v1",
+      "referenced_in_catalog": true,
+      "text_sha256": "6e6305ddd7e0087952aed595a7ebef77c3a1a251317e9c126d9c4a5ceecfc02d"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/",
+      "title": "Agent World Model (AWM) for Scalable Agentic RL Environments",
+      "checked_at": "2026-10-07T18:10:57.550422+00:00",
+      "status": 200,
+      "final_url": "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/",
+      "referenced_in_catalog": true,
+      "text_sha256": "e3cd4fb5b5a7f3869ac153ed1569277cd6f87936c7559d4cdfa376edbb86e96e"
+    },
+    {
+      "url": "https://www.together.ai/blog/coderforge-preview",
+      "title": "",
+      "checked_at": "2026-10-07T18:09:42.462383+00:00",
+      "status": 200,
+      "final_url": "https://www.together.ai/blog/coderforge-preview",
+      "referenced_in_catalog": true,
+      "text_sha256": "778c4f8dcd72e95cb280826310d46b55829e69925231f07dc5ab2c3b21ffee57"
+    },
+    {
+      "url": "https://www.together.ai/blog/deepswe",
+      "title": "DeepSWE: Training a Fully Open-sourced, State-of-the-Art Coding Agent by Scaling RL",
+      "checked_at": "2026-10-08T03:15:13.860672+00:00",
+      "status": 200,
+      "final_url": "https://www.together.ai/blog/deepswe",
+      "referenced_in_catalog": true,
+      "text_sha256": "ba02c099c6f77a68bc159056763cb936256d1f178ced73174219ba5e89782686"
+    },
+    {
+      "url": "https://x.ai/news/grok-4-6",
+      "title": "Introducing Grok 4.6 | SpaceXAI",
+      "checked_at": "2026-10-08T03:15:08.970226+00:00",
+      "status": 200,
+      "final_url": "https://x.ai/news/grok-4-6",
+      "referenced_in_catalog": true,
+      "text_sha256": "5ff77b2d546272f2da9102fefc6d6cb9dba1e8e7b846a7f8c2b5d39e85f46afb"
+    },
+    {
+      "url": "https://ziqiao-git.github.io/C-World/",
+      "title": "ToolGym - Open-world Tool-using Environment",
+      "checked_at": "2026-10-07T18:22:33.201953+00:00",
+      "status": 200,
+      "final_url": "https://ziqiao-git.github.io/C-World/",
+      "referenced_in_catalog": true,
+      "text_sha256": "818907c29f41fbeeab7cda69ecdefde86376c142302ffec8dd8c278fca91d184"
+    }
+  ],
+  "browser_content_reviews": [
+    {
+      "url": "https://openai.com/index/introducing-codex/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08"
+    },
+    {
+      "url": "https://openai.com/index/computer-using-agent/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08"
+    },
+    {
+      "url": "https://alignment.anthropic.com/2026/reward-seeker/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08"
+    },
+    {
+      "url": "https://openai.com/index/equip-responses-api-computer-environment/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "Computer environment, shell, skills and compaction engineering passages"
+    },
+    {
+      "url": "https://openai.com/index/introducing-swe-bench-verified/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "Task selection and evaluation-harness discussion"
+    },
+    {
+      "url": "https://openai.com/index/paperbench/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "Announcement text: task decomposition, author-built rubrics and judge evaluation"
+    },
+    {
+      "url": "https://openai.com/index/introducing-deep-research/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "How it works"
+    },
+    {
+      "url": "https://openai.com/index/introducing-chatgpt-agent/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "An agent that works for you, with you"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "Per-product containment; filesystem, network and credential boundaries"
+    },
+    {
+      "url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "OpenEnv (An Open Hub and Spec for RL Environments)"
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "Three architectural choices; Setting up the experiments"
+    },
+    {
+      "url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+      "method": "research-browser-primary-page",
+      "reviewed_at": "2026-10-08",
+      "section": "Action controls; Generating counterfactuals; Long horizon memory"
+    }
+  ],
+  "pdf_reviews": [
+    {
+      "id": "report-kimi-k3",
+      "url": "https://arxiv.org/pdf/2607.24653v2",
+      "version": "arXiv v2 · 2026-08-07",
+      "sha256": "1a21e4d15de52eb0d4cf09cdbffc6248c497ba6897572cc5574af237c13da51d",
+      "section_count": 8,
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "report-deepseek-v4",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/resolve/89d501aed998d33fa4f4702102ec1bb2331e10f6/DeepSeek_V4.pdf",
+      "version": "arXiv v1 · 2026-04-26",
+      "sha256": "8a03dadae71894de1515da33e296f0df1dbeed3e7f4bf0badd087f9af77f29e9",
+      "section_count": 2,
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "report-glm45",
+      "url": "https://arxiv.org/pdf/2508.06471v1",
+      "version": "arXiv v1 · 2025-08-08",
+      "sha256": "b5eec92371521f580779dc450261728091cc4a004cc5862a0204efab478d5b07",
+      "section_count": 2,
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "paper-dsec",
+      "url": "https://arxiv.org/pdf/2609.22978v1",
+      "version": "arXiv v1 · 2026-09-19",
+      "sha256": "649edc87e70b8e57f9515360b15ed5576c6c8afb3c46a3763e83c22a85a660e2",
+      "section_count": 4,
+      "checked_at": "2026-10-08"
+    },
+    {
+      "id": "report-mimo-v26",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+      "version": "HF revision 73875d0 · checked 2026-10-08",
+      "sha256": "fb81e6e083801b3358f084ed6be953dc23b0d2e434690f4541d5eae03e01e7af",
+      "section_count": 9,
+      "checked_at": "2026-10-08"
+    }
+  ],
+  "round4_added_resources": 26
+}

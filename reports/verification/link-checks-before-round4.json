@@ -1,0 +1,1941 @@
+{
+  "checked_at": "2026-10-08T03:04:41.455361+00:00",
+  "links": [
+    {
+      "url": "https://agent-tars-world.github.io/-/",
+      "checked_at": "2026-10-08T03:03:56.710958+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://agent-tars-world.github.io/-/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://alignment.anthropic.com/2026/reward-seeker/",
+      "checked_at": "2026-10-08T03:03:56.711486+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://alignment.anthropic.com/2026/reward-seeker/",
+      "result": "failed",
+      "error": "curl: (28) Operation timed out after 8006 milliseconds with 0 bytes received"
+    },
+    {
+      "url": "https://arxiv.org/abs/2010.03768",
+      "checked_at": "2026-10-08T03:03:56.713036+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2010.03768",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2203.07540",
+      "checked_at": "2026-10-08T03:03:56.714128+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2203.07540",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.01206",
+      "checked_at": "2026-10-08T03:03:56.715789+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2207.01206",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.13854",
+      "checked_at": "2026-10-08T03:03:56.718423+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2307.13854",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.07718",
+      "checked_at": "2026-10-08T03:03:56.720756+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2403.07718",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.07972",
+      "checked_at": "2026-10-08T03:03:56.722967+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2404.07972",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.14573",
+      "checked_at": "2026-10-08T03:03:57.304455+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2405.14573",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2406.04151",
+      "checked_at": "2026-10-08T03:03:57.422691+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2406.04151",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.18901",
+      "checked_at": "2026-10-08T03:03:57.449023+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2407.18901",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04682",
+      "checked_at": "2026-10-08T03:03:57.823772+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2408.04682",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.05467",
+      "checked_at": "2026-10-08T03:03:57.887555+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.05467",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.09605",
+      "checked_at": "2026-10-08T03:03:57.958284+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.09605",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.14161",
+      "checked_at": "2026-10-08T03:03:57.980235+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.14161",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.19723",
+      "checked_at": "2026-10-08T03:03:58.059732+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.19723",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.21139",
+      "checked_at": "2026-10-08T03:03:58.620112+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.21139",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.21154",
+      "checked_at": "2026-10-08T03:03:58.649455+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.21154",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.06776",
+      "checked_at": "2026-10-08T03:03:58.748371+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2502.06776",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.07164",
+      "checked_at": "2026-10-08T03:03:59.334774+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2504.07164",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.11442",
+      "checked_at": "2026-10-08T03:03:59.456114+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2504.11442",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.21798",
+      "checked_at": "2026-10-08T03:03:59.742375+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2504.21798",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.24760",
+      "checked_at": "2026-10-08T03:03:59.742640+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2505.24760",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.07982",
+      "checked_at": "2026-10-08T03:03:59.891596+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2506.07982",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.11045",
+      "checked_at": "2026-10-08T03:04:00.538156+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2506.11045",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.14205",
+      "checked_at": "2026-10-08T03:04:00.607614+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2506.14205",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2508.06471",
+      "checked_at": "2026-10-08T03:04:01.004246+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2508.06471",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.08755",
+      "checked_at": "2026-10-08T03:04:01.127368+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2509.08755",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.17158",
+      "checked_at": "2026-10-08T03:04:01.178494+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2509.17158",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.17325",
+      "checked_at": "2026-10-08T03:04:01.218679+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2509.17325",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.01051",
+      "checked_at": "2026-10-08T03:04:01.641571+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2510.01051",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.10197",
+      "checked_at": "2026-10-08T03:04:01.646806+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2510.10197",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.03773",
+      "checked_at": "2026-10-08T03:04:01.739936+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.03773",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.07317",
+      "checked_at": "2026-10-08T03:04:02.014742+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.07317",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.09572",
+      "checked_at": "2026-10-08T03:04:02.072445+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.09572",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.09586",
+      "checked_at": "2026-10-08T03:04:02.142663+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.09586",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.19304",
+      "checked_at": "2026-10-08T03:04:02.404586+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.19304",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.12216",
+      "checked_at": "2026-10-08T03:04:02.765413+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2512.12216",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.19682",
+      "checked_at": "2026-10-08T03:04:03.037668+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2512.19682",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.22857",
+      "checked_at": "2026-10-08T03:04:03.130565+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2512.22857",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.04126",
+      "checked_at": "2026-10-08T03:04:03.157727+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.04126",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.05808",
+      "checked_at": "2026-10-08T03:04:03.424791+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.05808",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.06328",
+      "checked_at": "2026-10-08T03:04:03.503700+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.06328",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.11868",
+      "checked_at": "2026-10-08T03:04:03.674511+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.11868",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.16443",
+      "checked_at": "2026-10-08T03:04:03.861708+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.16443",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.01244",
+      "checked_at": "2026-10-08T03:04:03.978791+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.01244",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.02361",
+      "checked_at": "2026-10-08T03:04:04.069344+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.02361",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.06820",
+      "checked_at": "2026-10-08T03:04:04.413403+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.06820",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.09892",
+      "checked_at": "2026-10-08T03:04:04.564660+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.09892",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.10090",
+      "checked_at": "2026-10-08T03:04:04.744489+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.10090",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.10999",
+      "checked_at": "2026-10-08T03:04:04.854420+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.10999",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.14721",
+      "checked_at": "2026-10-08T03:04:05.116407+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.14721",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.21193",
+      "checked_at": "2026-10-08T03:04:05.152356+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.21193",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.23866",
+      "checked_at": "2026-10-08T03:04:05.157513+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.23866",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.13023",
+      "checked_at": "2026-10-08T03:04:05.305181+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2603.13023",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06126",
+      "checked_at": "2026-10-08T03:04:05.715615+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.06126",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10988",
+      "checked_at": "2026-10-08T03:04:05.814029+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.10988",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18292",
+      "checked_at": "2026-10-08T03:04:06.020043+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.18292",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18543",
+      "checked_at": "2026-10-08T03:04:06.152373+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.18543",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.25727",
+      "checked_at": "2026-10-08T03:04:06.417718+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.25727",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.14392",
+      "checked_at": "2026-10-08T03:04:06.442889+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.14392",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18703",
+      "checked_at": "2026-10-08T03:04:06.476818+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.18703",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20744",
+      "checked_at": "2026-10-08T03:04:06.532740+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.20744",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20876",
+      "checked_at": "2026-10-08T03:04:06.885439+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.20876",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.22535",
+      "checked_at": "2026-10-08T03:04:06.885653+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.22535",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.10728",
+      "checked_at": "2026-10-08T03:04:07.347082+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.10728",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12191",
+      "checked_at": "2026-10-08T03:04:07.398048+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.12191",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.19348",
+      "checked_at": "2026-10-08T03:04:07.496030+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.19348",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.22883",
+      "checked_at": "2026-10-08T03:04:07.610737+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.22883",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24855",
+      "checked_at": "2026-10-08T03:04:07.655405+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.24855",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.11818",
+      "checked_at": "2026-10-08T03:04:07.797473+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2607.11818",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14186",
+      "checked_at": "2026-10-08T03:04:08.024170+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2607.14186",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.24653",
+      "checked_at": "2026-10-08T03:04:08.106140+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2607.24653",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02287",
+      "checked_at": "2026-10-08T03:04:08.245179+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.02287",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03571",
+      "checked_at": "2026-10-08T03:04:08.247100+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.03571",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06197",
+      "checked_at": "2026-10-08T03:04:08.261105+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.06197",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06352",
+      "checked_at": "2026-10-08T03:04:08.507526+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.06352",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14312",
+      "checked_at": "2026-10-08T03:04:08.508648+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.14312",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19197",
+      "checked_at": "2026-10-08T03:04:08.553099+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.19197",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19880",
+      "checked_at": "2026-10-08T03:04:08.714832+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.19880",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20634",
+      "checked_at": "2026-10-08T03:04:08.925020+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.20634",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22592",
+      "checked_at": "2026-10-08T03:04:08.978390+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.22592",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22978",
+      "checked_at": "2026-10-08T03:04:08.978469+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.22978",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.26826",
+      "checked_at": "2026-10-08T03:04:09.019193+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.26826",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.33665",
+      "checked_at": "2026-10-08T03:04:09.192917+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.33665",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.33772",
+      "checked_at": "2026-10-08T03:04:09.550099+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.33772",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.04008",
+      "checked_at": "2026-10-08T03:04:09.888072+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2610.04008",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05161",
+      "checked_at": "2026-10-08T03:04:09.897287+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2610.05161",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05923",
+      "checked_at": "2026-10-08T03:04:09.914193+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2610.05923",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2010.03768",
+      "checked_at": "2026-10-08T03:04:10.012761+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2010.03768",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2508.06471v1",
+      "checked_at": "2026-10-08T03:04:10.025816+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2508.06471v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.07317v1",
+      "checked_at": "2026-10-08T03:04:10.061979+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2511.07317v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.09572v1",
+      "checked_at": "2026-10-08T03:04:10.379341+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2511.09572v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2601.16443",
+      "checked_at": "2026-10-08T03:04:10.904908+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2601.16443",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.10999",
+      "checked_at": "2026-10-08T03:04:11.206899+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2602.10999",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.14721v1",
+      "checked_at": "2026-10-08T03:04:11.207184+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2602.14721v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2603.13023v1",
+      "checked_at": "2026-10-08T03:04:11.448371+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2603.13023v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2606.19348v1",
+      "checked_at": "2026-10-08T03:04:11.581644+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2606.19348v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2607.24653v2",
+      "checked_at": "2026-10-08T03:04:11.658987+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2607.24653v2",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.22978v1",
+      "checked_at": "2026-10-08T03:04:11.679237+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2609.22978v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.33772v2",
+      "checked_at": "2026-10-08T03:04:12.141381+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2609.33772v2",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/html/2610.05161",
+      "checked_at": "2026-10-08T03:04:12.261871+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2610.05161",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2508.06471v1",
+      "checked_at": "2026-10-08T03:04:12.468187+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/pdf/2508.06471v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2607.24653v2",
+      "checked_at": "2026-10-08T03:04:12.746023+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/pdf/2607.24653v2",
+      "result": "ok"
+    },
+    {
+      "url": "https://arxiv.org/pdf/2609.22978v1",
+      "checked_at": "2026-10-08T03:04:12.769150+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/pdf/2609.22978v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
+      "checked_at": "2026-10-08T03:04:13.080613+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
+      "result": "ok"
+    },
+    {
+      "url": "https://cmu-l3.github.io/gym-anything",
+      "checked_at": "2026-10-08T03:04:13.153105+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://cmu-l3.github.io/gym-anything",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://cursor.com/blog/composer-2-technical-report",
+      "checked_at": "2026-10-08T03:04:13.201306+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://cursor.com/blog/composer-2-technical-report",
+      "result": "ok"
+    },
+    {
+      "url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+      "checked_at": "2026-10-08T03:04:13.462738+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/",
+      "result": "ok"
+    },
+    {
+      "url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "checked_at": "2026-10-08T03:04:13.498990+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/",
+      "result": "ok"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/?p=123038",
+      "checked_at": "2026-10-08T03:04:13.505370+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://developer.nvidia.com/blog/?p=123038",
+      "result": "ok"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "checked_at": "2026-10-08T03:04:14.097782+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "result": "ok"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+      "checked_at": "2026-10-08T03:04:14.111096+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/AgentEnv",
+      "checked_at": "2026-10-08T03:04:14.147109+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/AllSpark-Research/AgentEnv",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/AgentEnv/blob/main/CompoWorld/README.md",
+      "checked_at": "2026-10-08T03:04:14.154122+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/AllSpark-Research/AgentEnv/blob/main/CompoWorld/README.md",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/AgentEnv/tree/main/Skill2Env",
+      "checked_at": "2026-10-08T03:04:14.178962+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/AllSpark-Research/AgentEnv/tree/main/Skill2Env",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/CalibForge",
+      "checked_at": "2026-10-08T03:04:14.330069+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/AweAI-Team/CalibForge",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/DeNovoSWE",
+      "checked_at": "2026-10-08T03:04:15.155108+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/AweAI-Team/DeNovoSWE",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/ScaleSWE",
+      "checked_at": "2026-10-08T03:04:15.365937+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/AweAI-Team/ScaleSWE",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/DataArcTech/DataArc-SynData-Toolkit",
+      "checked_at": "2026-10-08T03:04:15.436877+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/DataArcTech/DataArc-SynData-Toolkit",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/EuniAI/TerminalWorld",
+      "checked_at": "2026-10-08T03:04:15.734323+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/EuniAI/TerminalWorld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/FoundationAgents/AutoEnv",
+      "checked_at": "2026-10-08T03:04:15.752173+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/FoundationAgents/AutoEnv",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Future-House/aviary",
+      "checked_at": "2026-10-08T03:04:16.144530+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Future-House/aviary",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/GAIR-NLP/OpenSWE",
+      "checked_at": "2026-10-08T03:04:16.168759+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/GAIR-NLP/OpenSWE",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/GaryStack/Beyond-MMEnv-Scaling",
+      "checked_at": "2026-10-08T03:04:16.262962+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/GaryStack/Beyond-MMEnv-Scaling",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Gen-Verse/GenEnv",
+      "checked_at": "2026-10-08T03:04:16.415265+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Gen-Verse/GenEnv",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/LARK-AI-Lab/EnvFactory",
+      "checked_at": "2026-10-08T03:04:16.432688+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/LARK-AI-Lab/EnvFactory",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/LiberCoders/CLI-Gym",
+      "checked_at": "2026-10-08T03:04:16.966701+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/LiberCoders/CLI-Gym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/MajoRoth/hack-verifiable-environments",
+      "checked_at": "2026-10-08T03:04:17.102965+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/MajoRoth/hack-verifiable-environments",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "checked_at": "2026-10-08T03:04:17.192181+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/MoonshotAI/Kimi-K3",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "checked_at": "2026-10-08T03:04:17.334190+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/NVIDIA-NeMo/Gym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/OS-Copilot/OS-Genesis",
+      "checked_at": "2026-10-08T03:04:17.356256+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/OS-Copilot/OS-Genesis",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/PrimeIntellect-ai/verifiers",
+      "checked_at": "2026-10-08T03:04:17.626175+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/PrimeIntellect-ai/verifiers",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/QwenLM/WebWorld",
+      "checked_at": "2026-10-08T03:04:17.797040+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/QwenLM/WebWorld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/R2E-Gym/R2E-Gym",
+      "checked_at": "2026-10-08T03:04:18.030881+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/R2E-Gym/R2E-Gym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/Agent-World",
+      "checked_at": "2026-10-08T03:04:18.114132+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/RUC-NLPIR/Agent-World",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "checked_at": "2026-10-08T03:04:18.130584+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/SWE-Gym/SWE-Gym",
+      "checked_at": "2026-10-08T03:04:18.255637+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/SWE-Gym/SWE-Gym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/SWE-bench/SWE-smith",
+      "checked_at": "2026-10-08T03:04:18.315148+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/SWE-bench/SWE-smith",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/SWE-rebench/SWE-rebench-V2",
+      "checked_at": "2026-10-08T03:04:18.634710+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/SWE-rebench/SWE-rebench-V2",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/ServiceNow/BrowserGym",
+      "checked_at": "2026-10-08T03:04:18.973360+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/ServiceNow/BrowserGym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/ServiceNow/WorkArena",
+      "checked_at": "2026-10-08T03:04:18.978907+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/ServiceNow/WorkArena",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Snowflake-Labs/agent-world-model",
+      "checked_at": "2026-10-08T03:04:18.998585+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Snowflake-Labs/agent-world-model",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/StigLidu/CodeGym",
+      "checked_at": "2026-10-08T03:04:19.073090+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/StigLidu/CodeGym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/StonyBrookNLP/appworld",
+      "checked_at": "2026-10-08T03:04:19.221780+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/StonyBrookNLP/appworld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/TextArena/TextArena",
+      "checked_at": "2026-10-08T03:04:19.249136+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/TextArena/TextArena",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "checked_at": "2026-10-08T03:04:19.498695+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Within-yao/EnvACE",
+      "checked_at": "2026-10-08T03:04:19.897268+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Within-yao/EnvACE",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/WooooDyy/AgentGym",
+      "checked_at": "2026-10-08T03:04:19.950196+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/WooooDyy/AgentGym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/WooooDyy/AgentGym-RL",
+      "checked_at": "2026-10-08T03:04:20.041325+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/WooooDyy/AgentGym-RL",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/mimoagent",
+      "checked_at": "2026-10-08T03:04:20.273423+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/XiaomiMiMo/mimoagent",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/uni-agent",
+      "checked_at": "2026-10-08T03:04:20.304348+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/XiaomiMiMo/uni-agent",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/verl",
+      "checked_at": "2026-10-08T03:04:20.399450+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/XiaomiMiMo/verl",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Zhiyuan-Zeng/RLVE",
+      "checked_at": "2026-10-08T03:04:20.979666+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Zhiyuan-Zeng/RLVE",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Ziqiao-git/C-World",
+      "checked_at": "2026-10-08T03:04:21.137245+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Ziqiao-git/C-World",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/Ziqiao-git/ToolGym",
+      "checked_at": "2026-10-08T03:04:21.339543+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/Ziqiao-git/C-World",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/alfworld/alfworld",
+      "checked_at": "2026-10-08T03:04:21.464178+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/alfworld/alfworld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/allenai/ScienceWorld",
+      "checked_at": "2026-10-08T03:04:21.574759+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/allenai/ScienceWorld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "checked_at": "2026-10-08T03:04:22.005057+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/apple-aiml-research/ml-mmtoolsandbox",
+      "checked_at": "2026-10-08T03:04:22.314938+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple-aiml-research/ml-mmtoolsandbox",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/apple/ToolSandbox",
+      "checked_at": "2026-10-08T03:04:22.321630+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/apple/ml-mmtoolsandbox",
+      "checked_at": "2026-10-08T03:04:22.351472+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple-aiml-research/ml-mmtoolsandbox",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/axon-rl/gem",
+      "checked_at": "2026-10-08T03:04:22.353036+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/axon-rl/gem",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/browser-use/benchmark",
+      "checked_at": "2026-10-08T03:04:22.359877+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/browser-use/benchmark",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/cmu-l3/gym-anything",
+      "checked_at": "2026-10-08T03:04:22.847409+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/cmu-l3/gym-anything",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/coli-saar/randomworld",
+      "checked_at": "2026-10-08T03:04:23.417504+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/coli-saar/randomworld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/data-for-agents/insta",
+      "checked_at": "2026-10-08T03:04:23.494157+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/data-for-agents/insta",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "checked_at": "2026-10-08T03:04:23.515674+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/google-research/android_world",
+      "checked_at": "2026-10-08T03:04:23.515879+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/google-research/android_world",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/google-research/envharness",
+      "checked_at": "2026-10-08T03:04:23.558437+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/google-research/envharness",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/harbor-framework/harbor",
+      "checked_at": "2026-10-08T03:04:23.817767+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/harbor-framework/harbor",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/harbor-framework/terminal-bench",
+      "checked_at": "2026-10-08T03:04:23.825247+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/harbor-framework/terminal-bench",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/huggingface/OpenEnv",
+      "checked_at": "2026-10-08T03:04:24.708207+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/huggingface/OpenEnv",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/icip-cas/LiteCoder",
+      "checked_at": "2026-10-08T03:04:24.785203+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/icip-cas/LiteCoder",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/inclusionAI/AWorld-RL",
+      "checked_at": "2026-10-08T03:04:24.928780+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/inclusionAI/AWorld-RL",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/inclusionAI/AWorld-RL/tree/main/EnvTuning",
+      "checked_at": "2026-10-08T03:04:25.046255+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/inclusionAI/AWorld-RL/tree/main/EnvTuning",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/kanishkg/endless-terminals",
+      "checked_at": "2026-10-08T03:04:25.560965+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/kanishkg/endless-terminals",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "checked_at": "2026-10-08T03:04:25.637734+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/kvcache-ai/AgentENV",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/namkoong-lab/SynthTools",
+      "checked_at": "2026-10-08T03:04:25.889679+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/namkoong-lab/SynthTools",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/neulab/SWE-Playground",
+      "checked_at": "2026-10-08T03:04:26.005774+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/neulab/SWE-Playground",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/open-thought/reasoning-gym",
+      "checked_at": "2026-10-08T03:04:26.027307+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/open-thought/reasoning-gym",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "checked_at": "2026-10-08T03:04:26.257616+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/princeton-nlp/WebShop",
+      "checked_at": "2026-10-08T03:04:26.314301+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/princeton-nlp/WebShop",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/scaleapi/agentenv-framework",
+      "checked_at": "2026-10-08T03:04:26.511602+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/scaleapi/agentenv-framework",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "checked_at": "2026-10-08T03:04:26.613144+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/sierra-research/tau2-bench",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/spade-rl/spade",
+      "checked_at": "2026-10-08T03:04:26.895714+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/spade-rl/spade",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/stonybrooknlp/appworld",
+      "checked_at": "2026-10-08T03:04:27.539754+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/stonybrooknlp/appworld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/sunblaze-ucb/AgentSynth",
+      "checked_at": "2026-10-08T03:04:27.659262+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/sunblaze-ucb/AgentSynth",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/web-arena-x/webarena",
+      "checked_at": "2026-10-08T03:04:27.807708+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/web-arena-x/webarena",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/xirui-li/ClawEnvKit",
+      "checked_at": "2026-10-08T03:04:28.161369+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/xirui-li/ClawEnvKit",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/xlang-ai/AgentTrek",
+      "checked_at": "2026-10-08T03:04:28.412176+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/xlang-ai/AgentTrek",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "checked_at": "2026-10-08T03:04:28.643966+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/xlang-ai/OSWorld",
+      "result": "ok"
+    },
+    {
+      "url": "https://github.com/yuandaxia2001/WebForge",
+      "checked_at": "2026-10-08T03:04:29.140826+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://github.com/yuandaxia2001/WebForge",
+      "result": "ok"
+    },
+    {
+      "url": "https://hub.docker.com/r/xiaomimimo/mimo-v2.6-rl-oss",
+      "checked_at": "2026-10-08T03:04:29.285974+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://hub.docker.com/r/xiaomimimo/mimo-v2.6-rl-oss",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/AllSpark-Research/Skill2Env",
+      "checked_at": "2026-10-08T03:04:29.419673+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/AllSpark-Research/Skill2Env",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "checked_at": "2026-10-08T03:10:12.793526+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+      "checked_at": "2026-10-08T03:10:12.793805+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/MiMo_V2_6_technical_report.pdf",
+      "checked_at": "2026-10-08T03:04:29.593651+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/MiMo_V2_6_technical_report.pdf",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/resolve/73875d00b30a89ef8cc353a0b60b0e9f9561952d/MiMo_V2_6_technical_report.pdf",
+      "checked_at": "2026-10-08T03:10:12.793883+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/6ab14fb5b6a2637b97d82406/94d57d7651820dc98cee6b659ab52bb59107f8b64501b3766ae629117a15b62d?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27MiMo_V2_6_technical_report.pdf%3B+filename%3D%22MiMo_V2_6_technical_report.pdf%22%3B&xip=vgLwMlQYfVA&user_id=public&X-Xet-Cas-Uid=public&response-content-type=application%2Fpdf&Expires=1791432614&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNmFiMTRmYjViNmEyNjM3Yjk3ZDgyNDA2Lzk0ZDU3ZDc2NTE4MjBkYzk4Y2VlNmI2NTlhYjUyYmI1OTEwN2Y4YjY0NTAxYjM3NjZhZTYyOTExN2ExNWI2MmRcXD9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPWlubGluZSUzQitmaWxlbmFtZSUyQSUzRFVURi04JTI3JTI3TWlNb19WMl82X3RlY2huaWNhbF9yZXBvcnQucGRmJTNCK2ZpbGVuYW1lJTNEJTIyTWlNb19WMl82X3RlY2huaWNhbF9yZXBvcnQucGRmJTIyJTNCJnhpcD12Z0x3TWxRWWZWQSZ1c2VyX2lkPXB1YmxpYyZYLVhldC1DYXMtVWlkPXB1YmxpYyZyZXNwb25zZS1jb250ZW50LXR5cGU9YXBwbGljYXRpb24lMkZwZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc5MTQzMjYxNH19fV19&Signature=MEUCIQD3MfUSSjNsG4kahYVdC1zymX7xeOGfNDLYf3nxxfaCsgIgL5tuXzR9ycmcgEb8TpOge9anmH5KhlpED%7EFAeiCoN-E_&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
+      "checked_at": "2026-10-08T03:04:29.629427+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
+      "checked_at": "2026-10-08T03:04:29.820452+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv",
+      "checked_at": "2026-10-08T03:04:30.184108+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/openenv",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "checked_at": "2026-10-08T03:04:30.194327+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv-turing",
+      "checked_at": "2026-10-08T03:04:30.353222+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/openenv-turing",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/rl-environments",
+      "checked_at": "2026-10-08T03:04:30.420500+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/rl-environments",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+      "checked_at": "2026-10-08T03:04:30.427833+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/collections/AweAI-Team/scale-swe",
+      "checked_at": "2026-10-08T03:04:30.540108+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/collections/AweAI-Team/scale-swe",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/collections/nvidia/nemotron-terminal",
+      "checked_at": "2026-10-08T03:04:30.747451+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/collections/nvidia/nemotron-terminal",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample",
+      "checked_at": "2026-10-08T03:04:30.912005+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "checked_at": "2026-10-08T03:04:30.974080+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/datasets/xlangai/AgentTrek",
+      "checked_at": "2026-10-08T03:04:30.976887+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/xlangai/AgentTrek",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/datasets/yuandaxia/WebForge",
+      "checked_at": "2026-10-08T03:04:31.151672+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/yuandaxia/WebForge",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "checked_at": "2026-10-08T03:04:31.214348+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/resolve/89d501aed998d33fa4f4702102ec1bb2331e10f6/DeepSeek_V4.pdf",
+      "checked_at": "2026-10-08T03:04:31.460471+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://us.aws.cdn.hf.co/xet-bridge-us/69e864fd6b68f7e6cfc63ca3/60ba3f8de5d5172b5f3230b024eff941ac2ca747c301035124a2787e6169be2b?X-Xet-Cas-Uid=public&xip=vgLwMlQYfVA&user_id=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27DeepSeek_V4.pdf%3B+filename%3D%22DeepSeek_V4.pdf%22%3B&response-content-type=application%2Fpdf&Expires=1791432271&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly91cy5hd3MuY2RuLmhmLmNvL3hldC1icmlkZ2UtdXMvNjllODY0ZmQ2YjY4ZjdlNmNmYzYzY2EzLzYwYmEzZjhkZTVkNTE3MmI1ZjMyMzBiMDI0ZWZmOTQxYWMyY2E3NDdjMzAxMDM1MTI0YTI3ODdlNjE2OWJlMmJcXD9YLVhldC1DYXMtVWlkPXB1YmxpYyZ4aXA9dmdMd01sUVlmVkEmdXNlcl9pZD1wdWJsaWMmcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj1pbmxpbmUlM0IrZmlsZW5hbWUlMkElM0RVVEYtOCUyNyUyN0RlZXBTZWVrX1Y0LnBkZiUzQitmaWxlbmFtZSUzRCUyMkRlZXBTZWVrX1Y0LnBkZiUyMiUzQiZyZXNwb25zZS1jb250ZW50LXR5cGU9YXBwbGljYXRpb24lMkZwZGYiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkVwb2NoVGltZSI6MTc5MTQzMjI3MX19fV19&Signature=MEQCIBE-JsgPVsC%7E7dGGK1BNj4rV9H3ppAl%7Eoxp0ZEs30NY3AiA4sYQ31q0dqlcvA8KenoQHmxfmCpLegIKt1O9s-hX3wQ__&Key-Pair-Id=01KXEF4KZ1B6FV465MAWR4M21F&Hash-Algorithm=SHA256",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer",
+      "checked_at": "2026-10-08T03:04:31.807643+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer",
+      "result": "ok"
+    },
+    {
+      "url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer/raw/main/README.md",
+      "checked_at": "2026-10-08T03:04:31.849580+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/spaces/FineEnvs/MiMo-RL-Envs-Explorer/raw/main/README.md",
+      "result": "ok"
+    },
+    {
+      "url": "https://labs.scale.com/blog/agentic-rubrics",
+      "checked_at": "2026-10-08T03:04:31.939883+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/agentic-rubrics",
+      "result": "ok"
+    },
+    {
+      "url": "https://labs.scale.com/blog/introducing-agentenv",
+      "checked_at": "2026-10-08T03:04:31.979162+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/introducing-agentenv",
+      "result": "ok"
+    },
+    {
+      "url": "https://labs.scale.com/blog/rubric-dropout",
+      "checked_at": "2026-10-08T03:04:32.069586+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/rubric-dropout",
+      "result": "ok"
+    },
+    {
+      "url": "https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops",
+      "checked_at": "2026-10-08T03:04:32.388458+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops",
+      "result": "ok"
+    },
+    {
+      "url": "https://labs.scale.com/blog/verifier-design-for-cua",
+      "checked_at": "2026-10-08T03:04:32.548633+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/verifier-design-for-cua",
+      "result": "ok"
+    },
+    {
+      "url": "https://mimo.xiaomi.com/rl/",
+      "checked_at": "2026-10-08T03:04:32.669910+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://mimo.xiaomi.com/rl/",
+      "result": "ok"
+    },
+    {
+      "url": "https://neulab.github.io/SWE-Playground/",
+      "checked_at": "2026-10-08T03:04:32.756148+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://neulab.github.io/SWE-Playground/",
+      "result": "ok"
+    },
+    {
+      "url": "https://openai.com/index/computer-using-agent/",
+      "checked_at": "2026-10-08T03:04:32.920975+00:00",
+      "status": 403,
+      "method": "GET",
+      "final_url": "https://openai.com/index/computer-using-agent/",
+      "result": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://openai.com/index/introducing-codex/",
+      "checked_at": "2026-10-08T03:04:32.997638+00:00",
+      "status": 403,
+      "method": "GET",
+      "final_url": "https://openai.com/index/introducing-codex/",
+      "result": "blocked",
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://qwenlm.github.io/blog/qwen3-coder/",
+      "checked_at": "2026-10-08T03:04:33.029601+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://qwenlm.github.io/blog/qwen3-coder/",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "checked_at": "2026-10-08T03:04:33.266357+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "checked_at": "2026-10-08T03:04:33.633763+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.anthropic.com/engineering/infrastructure-noise",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "checked_at": "2026-10-08T03:04:33.703828+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.kimi.com/en/blog/kimi-k3",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.openthoughts.ai/blog/agent",
+      "checked_at": "2026-10-08T03:04:33.721229+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.openthoughts.ai/blog/agent",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/environments",
+      "checked_at": "2026-10-08T03:04:33.812830+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/environments",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/general-agent",
+      "checked_at": "2026-10-08T03:04:33.940724+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/general-agent",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+      "checked_at": "2026-10-08T03:04:34.023551+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "checked_at": "2026-10-08T03:04:34.386048+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/sandboxes",
+      "checked_at": "2026-10-08T03:04:35.449759+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/sandboxes",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+      "checked_at": "2026-10-08T03:04:35.507898+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/verifiers-v1",
+      "checked_at": "2026-10-08T03:04:36.296986+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/verifiers-v1",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/",
+      "checked_at": "2026-10-08T03:04:36.646150+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/",
+      "result": "ok"
+    },
+    {
+      "url": "https://www.together.ai/blog/coderforge-preview",
+      "checked_at": "2026-10-08T03:04:36.829231+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://www.together.ai/blog/coderforge-preview",
+      "result": "ok"
+    },
+    {
+      "url": "https://ziqiao-git.github.io/C-World/",
+      "checked_at": "2026-10-08T03:04:36.955816+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://ziqiao-git.github.io/C-World/",
+      "result": "ok"
+    }
+  ],
+  "incremental_checked_at": "2026-10-08T03:10:15.457645+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "as_of": "2026-10-08",
+  "major_groups": 6,
+  "subcategories": 20,
+  "tracks": 2,
+  "representative_papers": 18,
+  "featured_company_blogs": 7,
+  "supporting_company_blogs": 19,
+  "background_articles": 12,
+  "selected_resources": 206,
+  "evidence_inventory": 218,
+  "resource_kinds": {
+    "paper": 84,
+    "blog": 50,
+    "project": 68,
+    "report": 4
+  },
+  "report_section_count": 25,
+  "offline_errors": 0,
+  "existing_tests_passed": 15,
+  "notes": "Editorial focus update only. No new experimental results or refreshed network claims."
+}

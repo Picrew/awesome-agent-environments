@@ -1,0 +1,25 @@
+{
+  "note": "Paper-linked repositories were not publicly accessible at review; reason unknown. These are not counted as usable GitHub projects.",
+  "attempts": [
+    {
+      "url": "https://github.com/MrToser/skill-following",
+      "title": null,
+      "checked_at": "2026-10-08T02:15:04.445617+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "url": "https://github.com/Wusiwei0410/TerminalTraj",
+      "title": null,
+      "checked_at": "2026-10-08T02:15:04.444968+00:00",
+      "status": "error",
+      "final_url": null,
+      "referenced_in_catalog": false,
+      "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

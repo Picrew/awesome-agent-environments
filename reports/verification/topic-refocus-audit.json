@@ -1,0 +1,27 @@
+{
+  "as_of": "2026-10-08",
+  "evidence_inventory": 218,
+  "selected_resources": 206,
+  "selected_work_families": 129,
+  "selected_resource_kinds": {
+    "paper": 84,
+    "blog": 50,
+    "project": 68,
+    "report": 4
+  },
+  "core_company_blogs": 26,
+  "background_articles": 12,
+  "core_themes": {
+    "execution": 6,
+    "experience": 3,
+    "verification": 8,
+    "simulation": 3,
+    "construction": 5,
+    "adaptation": 1
+  },
+  "main_heading_uniqueness": true,
+  "background_excluded_from_main": true,
+  "offline_errors": 0,
+  "existing_tests_passed": 15,
+  "network_checks": "Previous snapshots retained; not rerun during editorial scope review."
+}

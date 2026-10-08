@@ -1,0 +1,218 @@
+[
+  {
+    "url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/",
+    "checked_at": "2026-10-08T03:27:48.555566+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://ai.meta.com/blog/introducing-pytorch-native-agentic-stack/",
+    "result": "ok"
+  },
+  {
+    "url": "https://alignment.anthropic.com/2026/coding-audit-realism/",
+    "checked_at": "2026-10-08T03:27:48.555934+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://alignment.anthropic.com/2026/coding-audit-realism/",
+    "result": "ok"
+  },
+  {
+    "url": "https://alignment.anthropic.com/2026/petri-v2/",
+    "checked_at": "2026-10-08T03:27:48.555987+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://alignment.anthropic.com/2026/petri-v2/",
+    "result": "ok"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+    "checked_at": "2026-10-08T03:27:48.556065+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://aws.amazon.com/blogs/machine-learning/custom-reward-functions-for-multi-turn-reinforcement-learning-with-amazon-nova-forge/",
+    "result": "ok"
+  },
+  {
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+    "checked_at": "2026-10-08T03:27:48.556122+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://aws.amazon.com/blogs/machine-learning/deploying-multi-turn-rl-infrastructure-for-amazon-nova-on-amazon-sagemaker-hyperpod/",
+    "result": "ok"
+  },
+  {
+    "url": "https://cognition.com/blog/swe-1-5",
+    "checked_at": "2026-10-08T03:27:48.556166+00:00",
+    "status": null,
+    "method": "HEAD",
+    "final_url": "https://cognition.com/blog/swe-1-5",
+    "result": "failed",
+    "error": "curl: (28) SSL connection timeout"
+  },
+  {
+    "url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+    "checked_at": "2026-10-08T03:27:49.076097+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://deepmind.google/blog/genie-2-a-large-scale-foundation-world-model/",
+    "result": "ok"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+    "checked_at": "2026-10-08T03:27:49.449963+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/",
+    "result": "ok"
+  },
+  {
+    "url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+    "checked_at": "2026-10-08T03:27:49.720971+00:00",
+    "status": null,
+    "method": "HEAD",
+    "final_url": "https://developer.nvidia.com/blog/mastering-agentic-techniques-ai-agent-reinforcement-learning/",
+    "result": "failed",
+    "error": "curl: (28) SSL connection timeout"
+  },
+  {
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "checked_at": "2026-10-08T03:27:50.284094+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "result": "ok"
+  },
+  {
+    "url": "https://openai.com/index/equip-responses-api-computer-environment/",
+    "checked_at": "2026-10-08T03:27:50.615934+00:00",
+    "status": 403,
+    "method": "GET",
+    "final_url": "https://openai.com/index/equip-responses-api-computer-environment/",
+    "result": "blocked",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "checked_at": "2026-10-08T03:27:51.218271+00:00",
+    "status": 403,
+    "method": "GET",
+    "final_url": "https://openai.com/index/introducing-chatgpt-agent/",
+    "result": "blocked",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://openai.com/index/introducing-deep-research/",
+    "checked_at": "2026-10-08T03:27:51.591011+00:00",
+    "status": 403,
+    "method": "GET",
+    "final_url": "https://openai.com/index/introducing-deep-research/",
+    "result": "blocked",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://openai.com/index/introducing-swe-bench-verified/",
+    "checked_at": "2026-10-08T03:27:51.640415+00:00",
+    "status": 403,
+    "method": "GET",
+    "final_url": "https://openai.com/index/introducing-swe-bench-verified/",
+    "result": "blocked",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://openai.com/index/paperbench/",
+    "checked_at": "2026-10-08T03:27:51.785515+00:00",
+    "status": 403,
+    "method": "GET",
+    "final_url": "https://openai.com/index/paperbench/",
+    "result": "blocked",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "checked_at": "2026-10-08T03:27:52.357199+00:00",
+    "status": 403,
+    "method": "GET",
+    "final_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "result": "blocked",
+    "error": "HTTP 403"
+  },
+  {
+    "url": "https://poolside.ai/blog/designing-a-world-class-code-execution-environment",
+    "checked_at": "2026-10-08T03:27:52.428942+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://poolside.ai/blog/designing-a-world-class-code-execution-environment",
+    "result": "ok"
+  },
+  {
+    "url": "https://reflection.ai/blog/introducing-beam",
+    "checked_at": "2026-10-08T03:27:52.742595+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://reflection.ai/blog/introducing-beam",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "checked_at": "2026-10-08T03:27:52.987399+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "checked_at": "2026-10-08T03:27:53.192184+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.anthropic.com/engineering/managed-agents",
+    "checked_at": "2026-10-08T03:27:53.223909+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.anthropic.com/engineering/managed-agents",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+    "checked_at": "2026-10-08T03:27:53.763535+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.anthropic.com/research/petri-open-source-auditing",
+    "checked_at": "2026-10-08T03:27:53.794734+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.anthropic.com/research/petri-open-source-auditing",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+    "checked_at": "2026-10-08T03:27:53.852064+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.microsoft.com/en-us/research/blog/magentic-marketplace-an-open-source-simulation-environment-for-studying-agentic-markets/",
+    "result": "ok"
+  },
+  {
+    "url": "https://www.together.ai/blog/deepswe",
+    "checked_at": "2026-10-08T03:27:54.496394+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://www.together.ai/blog/deepswe",
+    "result": "ok"
+  },
+  {
+    "url": "https://x.ai/news/grok-4-6",
+    "checked_at": "2026-10-08T03:27:54.516011+00:00",
+    "status": 200,
+    "method": "HEAD",
+    "final_url": "https://x.ai/news/grok-4-6",
+    "result": "ok"
+  }
+]

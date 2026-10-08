@@ -1,0 +1,1867 @@
+{
+  "checked_at": "2026-10-08T02:39:28.096577+00:00",
+  "links": [
+    {
+      "url": "https://agent-tars-world.github.io/-/",
+      "checked_at": "2026-10-08T02:38:09.341888+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://agent-tars-world.github.io/-/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2010.03768",
+      "checked_at": "2026-10-08T02:38:09.342387+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2010.03768",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2203.07540",
+      "checked_at": "2026-10-08T02:38:09.342516+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2203.07540",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2207.01206",
+      "checked_at": "2026-10-08T02:38:09.343907+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2207.01206",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2307.13854",
+      "checked_at": "2026-10-08T02:38:09.344065+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2307.13854",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2403.07718",
+      "checked_at": "2026-10-08T02:38:09.346559+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2403.07718",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2404.07972",
+      "checked_at": "2026-10-08T02:38:09.347498+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2404.07972",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2405.14573",
+      "checked_at": "2026-10-08T02:38:09.348886+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2405.14573",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2406.04151",
+      "checked_at": "2026-10-08T02:38:12.377859+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2406.04151",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2407.18901",
+      "checked_at": "2026-10-08T02:38:12.378151+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2407.18901",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2408.04682",
+      "checked_at": "2026-10-08T02:38:12.378362+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2408.04682",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.05467",
+      "checked_at": "2026-10-08T02:38:12.380670+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.05467",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.09605",
+      "checked_at": "2026-10-08T02:38:12.381359+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.09605",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.14161",
+      "checked_at": "2026-10-08T02:38:12.382993+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.14161",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.19723",
+      "checked_at": "2026-10-08T02:38:12.384663+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.19723",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.21139",
+      "checked_at": "2026-10-08T02:38:12.386702+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.21139",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2412.21154",
+      "checked_at": "2026-10-08T02:38:15.405342+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2412.21154",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2502.06776",
+      "checked_at": "2026-10-08T02:38:15.409026+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2502.06776",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.07164",
+      "checked_at": "2026-10-08T02:38:15.411516+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2504.07164",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.11442",
+      "checked_at": "2026-10-08T02:38:15.413921+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2504.11442",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2504.21798",
+      "checked_at": "2026-10-08T02:38:15.418782+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2504.21798",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2505.24760",
+      "checked_at": "2026-10-08T02:38:15.419468+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2505.24760",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.07982",
+      "checked_at": "2026-10-08T02:38:15.422863+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2506.07982",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.11045",
+      "checked_at": "2026-10-08T02:38:15.427547+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2506.11045",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2506.14205",
+      "checked_at": "2026-10-08T02:38:18.432865+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2506.14205",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.08755",
+      "checked_at": "2026-10-08T02:38:18.433072+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2509.08755",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.17158",
+      "checked_at": "2026-10-08T02:38:18.436503+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2509.17158",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2509.17325",
+      "checked_at": "2026-10-08T02:38:18.436586+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2509.17325",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.01051",
+      "checked_at": "2026-10-08T02:38:18.444071+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2510.01051",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2510.10197",
+      "checked_at": "2026-10-08T02:38:18.444255+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2510.10197",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.03773",
+      "checked_at": "2026-10-08T02:38:18.446720+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.03773",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.07317",
+      "checked_at": "2026-10-08T02:38:18.447190+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.07317",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.09572",
+      "checked_at": "2026-10-08T02:38:21.455422+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.09572",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.09586",
+      "checked_at": "2026-10-08T02:38:21.459259+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.09586",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2511.19304",
+      "checked_at": "2026-10-08T02:38:21.459693+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2511.19304",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.12216",
+      "checked_at": "2026-10-08T02:38:21.459937+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2512.12216",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.19682",
+      "checked_at": "2026-10-08T02:38:21.466073+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2512.19682",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2512.22857",
+      "checked_at": "2026-10-08T02:38:21.468508+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2512.22857",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.04126",
+      "checked_at": "2026-10-08T02:38:21.473327+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.04126",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.05808",
+      "checked_at": "2026-10-08T02:38:21.477219+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.05808",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.06328",
+      "checked_at": "2026-10-08T02:38:24.485278+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.06328",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.11868",
+      "checked_at": "2026-10-08T02:38:24.487740+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.11868",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2601.16443",
+      "checked_at": "2026-10-08T02:38:24.492936+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2601.16443",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.01244",
+      "checked_at": "2026-10-08T02:38:24.493120+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.01244",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.02361",
+      "checked_at": "2026-10-08T02:38:24.493253+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.02361",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.06820",
+      "checked_at": "2026-10-08T02:38:24.498057+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.06820",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.09892",
+      "checked_at": "2026-10-08T02:38:24.499760+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.09892",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.10090",
+      "checked_at": "2026-10-08T02:38:24.502103+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.10090",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.10999",
+      "checked_at": "2026-10-08T02:38:27.515065+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.10999",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.14721",
+      "checked_at": "2026-10-08T02:38:27.518327+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.14721",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.21193",
+      "checked_at": "2026-10-08T02:38:27.518734+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.21193",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2602.23866",
+      "checked_at": "2026-10-08T02:38:27.518952+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2602.23866",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2603.13023",
+      "checked_at": "2026-10-08T02:38:27.520727+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2603.13023",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.06126",
+      "checked_at": "2026-10-08T02:38:27.525829+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.06126",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.10988",
+      "checked_at": "2026-10-08T02:38:27.526881+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.10988",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18292",
+      "checked_at": "2026-10-08T02:38:27.531944+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.18292",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.18543",
+      "checked_at": "2026-10-08T02:38:30.541306+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.18543",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2604.25727",
+      "checked_at": "2026-10-08T02:38:30.545662+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2604.25727",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.14392",
+      "checked_at": "2026-10-08T02:38:30.545828+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.14392",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.18703",
+      "checked_at": "2026-10-08T02:38:30.546279+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.18703",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20744",
+      "checked_at": "2026-10-08T02:38:30.548064+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.20744",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.20876",
+      "checked_at": "2026-10-08T02:38:30.551536+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.20876",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2605.22535",
+      "checked_at": "2026-10-08T02:38:30.554171+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2605.22535",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.10728",
+      "checked_at": "2026-10-08T02:38:30.557305+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.10728",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.12191",
+      "checked_at": "2026-10-08T02:38:33.571644+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.12191",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.22883",
+      "checked_at": "2026-10-08T02:38:33.572127+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.22883",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2606.24855",
+      "checked_at": "2026-10-08T02:38:33.574514+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2606.24855",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.11818",
+      "checked_at": "2026-10-08T02:38:33.575028+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2607.11818",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2607.14186",
+      "checked_at": "2026-10-08T02:38:33.575659+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2607.14186",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.02287",
+      "checked_at": "2026-10-08T02:38:33.577315+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.02287",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.03571",
+      "checked_at": "2026-10-08T02:38:33.585569+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.03571",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06197",
+      "checked_at": "2026-10-08T02:38:33.585854+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.06197",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.06352",
+      "checked_at": "2026-10-08T02:38:36.596933+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.06352",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.14312",
+      "checked_at": "2026-10-08T02:38:36.598206+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.14312",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19197",
+      "checked_at": "2026-10-08T02:38:36.598612+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.19197",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.19880",
+      "checked_at": "2026-10-08T02:38:36.604280+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.19880",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2608.20634",
+      "checked_at": "2026-10-08T02:38:36.604464+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2608.20634",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.22592",
+      "checked_at": "2026-10-08T02:38:36.606153+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.22592",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.26826",
+      "checked_at": "2026-10-08T02:38:36.610331+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.26826",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2609.33772",
+      "checked_at": "2026-10-08T02:38:36.612136+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2609.33772",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.04008",
+      "checked_at": "2026-10-08T02:38:39.612967+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2610.04008",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05161",
+      "checked_at": "2026-10-08T02:38:39.614668+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2610.05161",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.05923",
+      "checked_at": "2026-10-08T02:38:39.616073+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/abs/2610.05923",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2010.03768",
+      "checked_at": "2026-10-08T02:38:39.622441+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2010.03768",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.07317v1",
+      "checked_at": "2026-10-08T02:38:39.622593+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2511.07317v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2511.09572v1",
+      "checked_at": "2026-10-08T02:38:39.629643+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2511.09572v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2601.16443",
+      "checked_at": "2026-10-08T02:38:39.631783+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2601.16443",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.10999",
+      "checked_at": "2026-10-08T02:38:39.634036+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2602.10999",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2602.14721v1",
+      "checked_at": "2026-10-08T02:38:42.636863+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2602.14721v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2603.13023v1",
+      "checked_at": "2026-10-08T02:38:42.640158+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2603.13023v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2609.33772v1",
+      "checked_at": "2026-10-08T02:38:42.640499+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2609.33772v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://arxiv.org/html/2610.05161",
+      "checked_at": "2026-10-08T02:38:42.647150+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://arxiv.org/html/2610.05161",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
+      "checked_at": "2026-10-08T02:38:42.647443+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://browser-use.com/posts/ai-browser-agent-benchmark",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://cmu-l3.github.io/gym-anything",
+      "checked_at": "2026-10-08T02:38:42.653220+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://cmu-l3.github.io/gym-anything",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://cursor.com/blog/composer-2-technical-report",
+      "checked_at": "2026-10-08T02:38:42.653713+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://cursor.com/blog/composer-2-technical-report",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/?p=123038",
+      "checked_at": "2026-10-08T02:38:42.658420+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://developer.nvidia.com/blog/?p=123038",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "checked_at": "2026-10-08T02:38:45.663252+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://developer.nvidia.com/blog/how-to-evaluate-ai-agents-from-tool-calls-to-task-completion/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+      "checked_at": "2026-10-08T02:38:45.666349+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://developer.nvidia.com/blog/how-to-train-scientific-agents-with-reinforcement-learning/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/AllSpark-Research/Skill2Env",
+      "checked_at": "2026-10-08T02:38:45.666890+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/AllSpark-Research/Skill2Env",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/CalibForge",
+      "checked_at": "2026-10-08T02:38:45.669103+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/AweAI-Team/CalibForge",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/DeNovoSWE",
+      "checked_at": "2026-10-08T02:38:45.670485+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/AweAI-Team/DeNovoSWE",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/AweAI-Team/ScaleSWE",
+      "checked_at": "2026-10-08T02:38:45.676390+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/AweAI-Team/ScaleSWE",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/DataArcTech/DataArc-SynData-Toolkit",
+      "checked_at": "2026-10-08T02:38:45.679337+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/DataArcTech/DataArc-SynData-Toolkit",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/EuniAI/TerminalWorld",
+      "checked_at": "2026-10-08T02:38:45.682074+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/EuniAI/TerminalWorld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/FoundationAgents/AutoEnv",
+      "checked_at": "2026-10-08T02:38:48.690441+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/FoundationAgents/AutoEnv",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Future-House/aviary",
+      "checked_at": "2026-10-08T02:38:48.691782+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Future-House/aviary",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/GAIR-NLP/OpenSWE",
+      "checked_at": "2026-10-08T02:38:48.693048+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/GAIR-NLP/OpenSWE",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/GaryStack/Beyond-MMEnv-Scaling",
+      "checked_at": "2026-10-08T02:38:48.693246+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/GaryStack/Beyond-MMEnv-Scaling",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Gen-Verse/GenEnv",
+      "checked_at": "2026-10-08T02:38:48.694384+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Gen-Verse/GenEnv",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/LARK-AI-Lab/EnvFactory",
+      "checked_at": "2026-10-08T02:38:48.697569+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/LARK-AI-Lab/EnvFactory",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/LiberCoders/CLI-Gym",
+      "checked_at": "2026-10-08T02:38:48.699096+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/LiberCoders/CLI-Gym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/MajoRoth/hack-verifiable-environments",
+      "checked_at": "2026-10-08T02:38:48.699217+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/MajoRoth/hack-verifiable-environments",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "checked_at": "2026-10-08T02:38:51.712627+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/NVIDIA-NeMo/Gym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/OS-Copilot/OS-Genesis",
+      "checked_at": "2026-10-08T02:38:51.716554+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/OS-Copilot/OS-Genesis",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/PrimeIntellect-ai/verifiers",
+      "checked_at": "2026-10-08T02:38:51.721828+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/PrimeIntellect-ai/verifiers",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/QwenLM/WebWorld",
+      "checked_at": "2026-10-08T02:38:51.722004+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/QwenLM/WebWorld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/R2E-Gym/R2E-Gym",
+      "checked_at": "2026-10-08T02:38:51.722091+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/R2E-Gym/R2E-Gym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/Agent-World",
+      "checked_at": "2026-10-08T02:38:51.722211+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/RUC-NLPIR/Agent-World",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "checked_at": "2026-10-08T02:38:51.724993+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/RUC-NLPIR/EnvScaler",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/SWE-Gym/SWE-Gym",
+      "checked_at": "2026-10-08T02:38:51.730022+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/SWE-Gym/SWE-Gym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/SWE-bench/SWE-smith",
+      "checked_at": "2026-10-08T02:38:54.744274+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/SWE-bench/SWE-smith",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/SWE-rebench/SWE-rebench-V2",
+      "checked_at": "2026-10-08T02:38:54.746878+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/SWE-rebench/SWE-rebench-V2",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/ServiceNow/BrowserGym",
+      "checked_at": "2026-10-08T02:38:54.749014+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/ServiceNow/BrowserGym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/ServiceNow/WorkArena",
+      "checked_at": "2026-10-08T02:38:54.749502+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/ServiceNow/WorkArena",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Snowflake-Labs/agent-world-model",
+      "checked_at": "2026-10-08T02:38:54.749895+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Snowflake-Labs/agent-world-model",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/StigLidu/CodeGym",
+      "checked_at": "2026-10-08T02:38:54.758361+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/StigLidu/CodeGym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/StonyBrookNLP/appworld",
+      "checked_at": "2026-10-08T02:38:54.763008+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/StonyBrookNLP/appworld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/TextArena/TextArena",
+      "checked_at": "2026-10-08T02:38:54.763183+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/TextArena/TextArena",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "checked_at": "2026-10-08T02:38:57.770607+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/TheAgentCompany/TheAgentCompany",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Within-yao/EnvACE",
+      "checked_at": "2026-10-08T02:38:57.771020+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Within-yao/EnvACE",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/WooooDyy/AgentGym",
+      "checked_at": "2026-10-08T02:38:57.771120+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/WooooDyy/AgentGym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/WooooDyy/AgentGym-RL",
+      "checked_at": "2026-10-08T02:38:57.775168+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/WooooDyy/AgentGym-RL",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/mimoagent",
+      "checked_at": "2026-10-08T02:38:57.779662+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/XiaomiMiMo/mimoagent",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/uni-agent",
+      "checked_at": "2026-10-08T02:38:57.782272+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/XiaomiMiMo/uni-agent",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/XiaomiMiMo/verl",
+      "checked_at": "2026-10-08T02:38:57.788019+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/XiaomiMiMo/verl",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Zhiyuan-Zeng/RLVE",
+      "checked_at": "2026-10-08T02:38:57.792130+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Zhiyuan-Zeng/RLVE",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Ziqiao-git/C-World",
+      "checked_at": "2026-10-08T02:39:00.796615+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Ziqiao-git/C-World",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/Ziqiao-git/ToolGym",
+      "checked_at": "2026-10-08T02:39:00.804838+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/Ziqiao-git/ToolGym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/alfworld/alfworld",
+      "checked_at": "2026-10-08T02:39:00.805165+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/alfworld/alfworld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/allenai/ScienceWorld",
+      "checked_at": "2026-10-08T02:39:00.805720+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/allenai/ScienceWorld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "checked_at": "2026-10-08T02:39:00.809648+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple-aiml-research/ToolSandbox",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/apple-aiml-research/ml-mmtoolsandbox",
+      "checked_at": "2026-10-08T02:39:00.810341+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple-aiml-research/ml-mmtoolsandbox",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/apple/ToolSandbox",
+      "checked_at": "2026-10-08T02:39:00.816264+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple/ToolSandbox",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/apple/ml-mmtoolsandbox",
+      "checked_at": "2026-10-08T02:39:00.818216+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/apple/ml-mmtoolsandbox",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/axon-rl/gem",
+      "checked_at": "2026-10-08T02:39:03.832143+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/axon-rl/gem",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/browser-use/benchmark",
+      "checked_at": "2026-10-08T02:39:03.832685+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/browser-use/benchmark",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/cmu-l3/gym-anything",
+      "checked_at": "2026-10-08T02:39:03.832758+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/cmu-l3/gym-anything",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/coli-saar/randomworld",
+      "checked_at": "2026-10-08T02:39:03.833094+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/coli-saar/randomworld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/data-for-agents/insta",
+      "checked_at": "2026-10-08T02:39:03.835492+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/data-for-agents/insta",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "checked_at": "2026-10-08T02:39:03.838783+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/facebookresearch/meta-agents-research-environments",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/google-research/android_world",
+      "checked_at": "2026-10-08T02:39:03.842845+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/google-research/android_world",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/google-research/envharness",
+      "checked_at": "2026-10-08T02:39:03.845735+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/google-research/envharness",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/harbor-framework/harbor",
+      "checked_at": "2026-10-08T02:39:06.860096+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/harbor-framework/harbor",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/harbor-framework/terminal-bench",
+      "checked_at": "2026-10-08T02:39:06.863416+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/harbor-framework/terminal-bench",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/huggingface/OpenEnv",
+      "checked_at": "2026-10-08T02:39:06.864030+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/huggingface/OpenEnv",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/icip-cas/LiteCoder",
+      "checked_at": "2026-10-08T02:39:06.866276+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/icip-cas/LiteCoder",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/inclusionAI/AWorld-RL",
+      "checked_at": "2026-10-08T02:39:06.870078+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/inclusionAI/AWorld-RL",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/inclusionAI/AWorld-RL/tree/main/EnvTuning",
+      "checked_at": "2026-10-08T02:39:06.870284+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/inclusionAI/AWorld-RL/tree/main/EnvTuning",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/kanishkg/endless-terminals",
+      "checked_at": "2026-10-08T02:39:06.870787+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/kanishkg/endless-terminals",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/namkoong-lab/SynthTools",
+      "checked_at": "2026-10-08T02:39:06.876682+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/namkoong-lab/SynthTools",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/neulab/SWE-Playground",
+      "checked_at": "2026-10-08T02:39:09.893081+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/neulab/SWE-Playground",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/open-thought/reasoning-gym",
+      "checked_at": "2026-10-08T02:39:09.896116+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/open-thought/reasoning-gym",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "checked_at": "2026-10-08T02:39:09.896464+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/open-thoughts/OpenThoughts-Agent",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/princeton-nlp/WebShop",
+      "checked_at": "2026-10-08T02:39:09.897207+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/princeton-nlp/WebShop",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/scaleapi/agentenv-framework",
+      "checked_at": "2026-10-08T02:39:09.897376+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/scaleapi/agentenv-framework",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/sierra-research/tau2-bench",
+      "checked_at": "2026-10-08T02:39:09.899031+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/sierra-research/tau2-bench",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/spade-rl/spade",
+      "checked_at": "2026-10-08T02:39:09.903820+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/spade-rl/spade",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/stonybrooknlp/appworld",
+      "checked_at": "2026-10-08T02:39:09.906477+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/stonybrooknlp/appworld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/sunblaze-ucb/AgentSynth",
+      "checked_at": "2026-10-08T02:39:12.928303+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/sunblaze-ucb/AgentSynth",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/web-arena-x/webarena",
+      "checked_at": "2026-10-08T02:39:12.933236+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/web-arena-x/webarena",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/xirui-li/ClawEnvKit",
+      "checked_at": "2026-10-08T02:39:12.933629+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/xirui-li/ClawEnvKit",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/xlang-ai/AgentTrek",
+      "checked_at": "2026-10-08T02:39:12.934171+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/xlang-ai/AgentTrek",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/xlang-ai/OSWorld",
+      "checked_at": "2026-10-08T02:39:12.936695+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/xlang-ai/OSWorld",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://github.com/yuandaxia2001/WebForge",
+      "checked_at": "2026-10-08T02:39:12.937060+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://github.com/yuandaxia2001/WebForge",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://hub.docker.com/r/xiaomimimo/mimo-v2.6-rl-oss",
+      "checked_at": "2026-10-08T02:39:12.937339+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://hub.docker.com/r/xiaomimimo/mimo-v2.6-rl-oss",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/MiMo_V2_6_technical_report.pdf",
+      "checked_at": "2026-10-08T02:39:12.944951+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL/blob/main/MiMo_V2_6_technical_report.pdf",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
+      "checked_at": "2026-10-08T02:39:15.950508+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/Lite-Coder/litecoder-terminal-preview",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
+      "checked_at": "2026-10-08T02:39:15.954001+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/burtenshaw/openenv-scaling",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv",
+      "checked_at": "2026-10-08T02:39:15.954156+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/openenv",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "checked_at": "2026-10-08T02:39:15.959067+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/openenv-turing",
+      "checked_at": "2026-10-08T02:39:15.960887+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/openenv-turing",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/rl-environments",
+      "checked_at": "2026-10-08T02:39:15.963733+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/rl-environments",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+      "checked_at": "2026-10-08T02:39:15.965255+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/blog/sergiopaniego/trl-openenv-harness-training",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/collections/AweAI-Team/scale-swe",
+      "checked_at": "2026-10-08T02:39:15.971828+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/collections/AweAI-Team/scale-swe",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/collections/nvidia/nemotron-terminal",
+      "checked_at": "2026-10-08T02:39:18.984481+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/collections/nvidia/nemotron-terminal",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample",
+      "checked_at": "2026-10-08T02:39:18.996733+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/Minbyul/AgentMercury-corpus-sample",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "checked_at": "2026-10-08T02:39:18.997657+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/XiaomiMiMo/MiMo-V2.6-RL-oss",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/datasets/xlangai/AgentTrek",
+      "checked_at": "2026-10-08T02:39:18.997820+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/xlangai/AgentTrek",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://huggingface.co/datasets/yuandaxia/WebForge",
+      "checked_at": "2026-10-08T02:39:18.997994+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://huggingface.co/datasets/yuandaxia/WebForge",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://labs.scale.com/blog/agentic-rubrics",
+      "checked_at": "2026-10-08T02:39:19.000230+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/agentic-rubrics",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://labs.scale.com/blog/introducing-agentenv",
+      "checked_at": "2026-10-08T02:39:19.003672+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/introducing-agentenv",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://labs.scale.com/blog/rubric-dropout",
+      "checked_at": "2026-10-08T02:39:19.009523+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/rubric-dropout",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops",
+      "checked_at": "2026-10-08T02:39:22.020311+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/scaling-enterprise-agent-performance-with-reinforcement-learning-via-verifiable-feedback-loops",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://labs.scale.com/blog/verifier-design-for-cua",
+      "checked_at": "2026-10-08T02:39:22.025616+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://labs.scale.com/blog/verifier-design-for-cua",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://mimo.xiaomi.com/rl/",
+      "checked_at": "2026-10-08T02:39:22.028903+00:00",
+      "status": 200,
+      "method": "HEAD",
+      "final_url": "https://mimo.xiaomi.com/rl/",
+      "result": "ok"
+    },
+    {
+      "url": "https://neulab.github.io/SWE-Playground/",
+      "checked_at": "2026-10-08T02:39:22.029661+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://neulab.github.io/SWE-Playground/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.openthoughts.ai/blog/agent",
+      "checked_at": "2026-10-08T02:39:22.029915+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.openthoughts.ai/blog/agent",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/environments",
+      "checked_at": "2026-10-08T02:39:22.030034+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/environments",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/general-agent",
+      "checked_at": "2026-10-08T02:39:22.034597+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/general-agent",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+      "checked_at": "2026-10-08T02:39:22.036768+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/multi-agent-systems",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "checked_at": "2026-10-08T02:39:22.116464+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/reward-hacking",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/sandboxes",
+      "checked_at": "2026-10-08T02:39:25.051960+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/sandboxes",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+      "checked_at": "2026-10-08T02:39:25.052437+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/scaling-agentic-rl",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.primeintellect.ai/blog/verifiers-v1",
+      "checked_at": "2026-10-08T02:39:25.062290+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.primeintellect.ai/blog/verifiers-v1",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/",
+      "checked_at": "2026-10-08T02:39:25.063039+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.snowflake.com/en/blog/engineering/agent-world-model-for-agentic-reinforment-learning/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://www.together.ai/blog/coderforge-preview",
+      "checked_at": "2026-10-08T02:39:25.066236+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://www.together.ai/blog/coderforge-preview",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    },
+    {
+      "url": "https://ziqiao-git.github.io/C-World/",
+      "checked_at": "2026-10-08T02:39:25.071844+00:00",
+      "status": null,
+      "method": "HEAD",
+      "final_url": "https://ziqiao-git.github.io/C-World/",
+      "result": "failed",
+      "error": "curl: (28) SSL connection timeout"
+    }
+  ]
+}
