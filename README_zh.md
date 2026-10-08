@@ -4,7 +4,7 @@
 
 [English](README.md) | [中文](README_zh.md)
 
-**129 组工作 · 84 篇论文 · 4 篇模型报告 · 51 篇博客 · 68 个 GitHub 项目**
+**138 组工作 · 93 篇论文 · 4 篇模型报告 · 53 篇博客 · 68 个 GitHub 项目**
 
 快照：**2026-10-08**。覆盖环境构建、任务合成、交互数据、训练与评测。
 
@@ -38,6 +38,7 @@ SFT 使用筛选后的示范轨迹；在线 RL 还需要可采样任务分布、
 | 文章/机构 | 核心问题 | 核心内容 | 日期 | 说明 |
 | --- | --- | --- | --- | --- |
 | [Automating the Data Flywheel with Terminal Agents](https://microsoft.github.io/Orchard-Agentic/autoenvscaling/) · Microsoft Research | 如何让 agent 自动生成并迭代环境？ | 用 proposer agent 读取 solver 失败轨迹，在沙箱中构建、运行和修复新环境；通过验证和难度校准筛选；单模型可同时担任 proposer 和 solver 实现递归自改进 | 2026（预印本） | 前沿 proposer 使用终端访问的有效环境生成率比一次性提示高 25 倍；Qwen3.6-35B 通过自对弈在 Terminal-Bench 2.1 上从 41.1 提升到 53.3。 |
+| [AutoBenchmark: Benchmark Creation & the Role of Humans](https://facebookresearch.github.io/RAM/blogs/autobench/) · Meta AI | 自动生成的 benchmark 如何达到有意义的难度？ | 用 Muse-Spark-1.1 创建三个研究型 agent benchmark（Graveyard/SilentTrain/Rebuttal Bench）；对比无反馈、粗粒度和细粒度人类反馈对难度的影响 | 2026-09 | 细粒度人类反馈使 solver 分数降低 28-46.5 点；粗粒度反馈仅提升 0.3-13.8 点；自动生成的 benchmark 在无反馈时接近饱和（>80%）。 |
 | [Introducing Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) · Reflection | 如何迭代高质量、有难度的环境池？ | 结合合成、供应商与开源任务；过滤过易、不可解、含糊或可投机任务；用 RL 发现问题并更新筛选策略 | 2026-10-05 | 发布文提到权重与报告将在当月稍后发布；截至该文并非全部已开放，环境池和生成器开放情况未明确。[详情](docs/catalog_details_zh.md#introducing-beam-reflections-501b-open-weight-model--blog-reflection-beam-env) |
 | [Designing a world-class code execution environment](https://poolside.ai/blog/designing-a-world-class-code-execution-environment) · Poolside | 如何把真实仓库变成可执行环境？ | 用 Saucer 管理仓库修订；agent 辅助构建可运行镜像；分层复用 revision 并执行隔离代码反馈 | 2025-08-12 | 详细的工程披露；文章未说明 Saucer、镜像库或完整 RLCEF 平台是否已开源。[详情](docs/catalog_details_zh.md#designing-a-world-class-code-execution-environment--blog-poolside-code-env) |
 
@@ -47,6 +48,7 @@ SFT 使用筛选后的示范轨迹；在线 RL 还需要可采样任务分布、
 
 | 文章/机构 | 核心问题 | 核心内容 | 日期 | 说明 |
 | --- | --- | --- | --- | --- |
+| [Odyssey: Forging Language Agents with Synthesized Environments and Mixed RL](https://bigai-nlco.github.io/Odyssey/) · BIGAI | 如何从结构化数据自动生成可验证环境并用于混合 RL？ | Odyssey-Env 从 Wikipedia 等挖掘结构化数据，自动生成 13K 任务（5K 环境、6 个领域、4 难度级别）；Odyssey-RL 用启发式信用分配检测可观察失败并局部化负梯度；跨多环境同时训练 | 2026-09-24 | Qwen 4B/8B/14B 在 BFCL-v4 提升 4.5-11.4 点，ACEBench 提升 9.2-13.4 点；14B 在 GAIA 达 42.7%（+15.5）；环境合成成本约 $11,440（$0.88/任务）；模型和环境承诺近期发布。 |
 | [How to Run an Autoresearch Workflow with RL Agent Skills and NVIDIA NeMo](https://developer.nvidia.com/blog/how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo/) · NVIDIA | 如何让 agent 构建环境并生成合成数据？ | 实现星形计数环境；按颜色与画布尺寸生成图像任务；把生成样本接入 SFT 实验 | 2026-07-14 | 该计数示例实际使用 SFT；不要因标题含 RL 就理解为新环境上的 RL 实验。[详情](docs/catalog_details_zh.md#how-to-run-an-autoresearch-workflow-with-rl-agent-skills-and-nvidia-nemo--blog-nvidia-autoresearch-env) |
 | [Introducing North Mini Code: Cohere's First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) · Cohere Labs | 如何组织环境以生产不同类型训练数据？ | 仓库与终端任务容器化；SFT 合成与 RLVR 使用不相交环境子集；按仓库来源去重以减少评测泄漏 | 2026-06-09 | Cohere 官方团队在 Hugging Face 发布；模型开放不代表全部内部环境与数据流水线开放。[详情](docs/catalog_details_zh.md#introducing-north-mini-code-coheres-first-model-for-developers--blog-cohere-north-mini-code) |
 | [A technical report on Composer 2](https://cursor.com/blog/composer-2-technical-report) · Cursor | 如何执行接近真实部署的训练任务？ | 真实工具会话中的多步任务；沙箱支持并发执行；将执行反馈接入异步 RL | 2026-03-27 | 工业界第一手报告；内部训练环境集群未作为开放资源发布。[详情](docs/catalog_details_zh.md#a-technical-report-on-composer-2--blog-composer2) |
@@ -59,6 +61,8 @@ SFT 使用筛选后的示范轨迹；在线 RL 还需要可采样任务分布、
 
 | 工作 | 研究切入点 | 核心方法 | 训练实验 | 注意事项 |
 | --- | --- | --- | --- | --- |
+| [EnvCraft](https://arxiv.org/abs/2609.05576) | 拓扑感知的环境与轨迹合成 | 环境合成引擎构建沙箱隔离工作区；拓扑感知数据生成引擎产生连贯任务轨迹；合成 139 个交互环境，约 20K 复杂任务 | RL 实验 | 论文专注于 Claw 式 agent 的 RL 训练；环境数量和任务数量需分开计数。 |
+| [GraphForge](https://arxiv.org/abs/2609.38923) | 基于证据图的工作区合成 | 从职业导向种子开始，为每个种子组装真实文件工作区并构建关系证据图；任务及其验证都基于真实文件；生成 2,169 条 SFT 轨迹 | SFT/轨迹训练 | Qwen3.6 27B 与 35B-A3B 均有提升；27B 的 GDPVal 提高 65.7 Elo，Workspace-Bench-Lite 提高 7.7 点，SpreadsheetBench II 提高 13.7 点；35B-A3B 的 GDPVal 提高 101.7 Elo。 |
 | [Envs-FORGE](https://arxiv.org/abs/2608.14312) | 反馈驱动批量合成 | 用验证通过率决定每个种子的合成操作，同步改写任务、数据、测试和 Docker 环境 | RL 实验 | 论文链接的是综合工具包；根 README 中未找到论文专属的完整复现入口。[详情](docs/catalog_details_zh.md#envs-forge--paper-envs-forge) |
 | [SWE-Universe](https://arxiv.org/abs/2602.02361) | 自动构建与构建环内质量检查 | 训练构建 agent 把 PR 转成可核验 SWE 环境，加入迭代自检与构建环内的作弊检测 | RL 实验 | 论文报告 807,693 个实例，不是独立环境家族数量；未找到官方构建代码。[详情](docs/catalog_details_zh.md#swe-universe--paper-swe-universe) |
 | [daVinci-Env / OpenSWE](https://arxiv.org/abs/2603.13023) | 仓库构建、可解性与有效难度 | 自动完成仓库探索、Docker 配置和测试生成，再按可解性及有效难度筛选环境 | SFT/轨迹训练 | 论文标题为 daVinci-Env，发布框架名为 OpenSWE；构建和轨迹采样成本较高。[详情](docs/catalog_details_zh.md#davinci-env--openswe--paper-openswe) |
@@ -72,6 +76,8 @@ SFT 使用筛选后的示范轨迹；在线 RL 还需要可采样任务分布、
 
 | 工作 | 研究切入点 | 核心方法 | 训练实验 | 注意事项 |
 | --- | --- | --- | --- | --- |
+| [TraceDance](https://arxiv.org/abs/2609.33295) | 从真实部署轨迹构建行为 benchmark | 从真实 agent 部署记录中提取执行轨迹，自动构造 107 个 benchmark、4,125 个实例；不训练模型，用于新评测 | 评测基准 | 没有训练模型；9 个前沿模型在新评测上平均通过率为 26.7%；测出了行为弱点，不能当作能力提升；多数被测模型也未给出可比的参数规模。 |
+| [WorkForge](https://arxiv.org/abs/2610.04906) | 真实文件工作区任务合成 | 约 1.67 万个真实文件工作区任务，覆盖 40 个专业领域；用于 RL 训练 | RL 实验 | Qwen3.5 35B-A3B-Base 的 GDPVal 从 45.5→73.6，APEX 从 5.0→21.3；已做后训练的 27B 也从 79.4→82.4，25.7→29.9。 |
 | [Skill2Env](https://arxiv.org/abs/2609.33772) | 技能内容→环境→SFT 轨迹 | 将技能转为能力导向的任务蓝图、可执行工作区和 rubric 评估器，并根据求解轨迹加难 | SFT/轨迹训练 | 论文做的是 SFT 实验。当前研究主页提供示例任务和模型链接；这些样例不能证明完整合成与训练流水线已经开放。[详情](docs/catalog_details_zh.md#skill2env--paper-skill2env) |
 | [Terminal-World (skills)](https://arxiv.org/abs/2605.20876) | 技能依赖→任务与教师轨迹 | 以技能及其依赖图共同生成终端任务、可执行环境和教师轨迹 | SFT/轨迹训练 | 与录制还原路线的 TerminalWorld 不同；SFT 实验不等于在线 RL 已就绪，未找到生成器开放信息。[详情](docs/catalog_details_zh.md#terminal-world-skills--paper-terminal-world-skills) |
 | [NexForge](https://arxiv.org/abs/2607.14186) | 真实需求→资源与专家示范 | 从真实需求编译任务，检索或构建配套文件及运行环境，再采集专家示范 | SFT/轨迹训练 | 终端任务数和办公任务数需要与轨迹数分开计数；模型发布不代表生成器开放。[详情](docs/catalog_details_zh.md#nexforge--paper-nexforge) |
